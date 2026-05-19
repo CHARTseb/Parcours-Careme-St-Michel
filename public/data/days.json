@@ -1,0 +1,532 @@
+[
+  {
+    "id": 1,
+    "date": "2026-05-25",
+    "titre": "JOUR 1 : lundi 25 mai 2026 Pierre angulaire de la foi",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 2,
+    "date": "2026-05-26",
+    "titre": "JOUR 2 : mardi 26 mai 2026 Foi patiente",
+    "reference_biblique": "1 Samuel",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 3,
+    "date": "2026-05-27",
+    "titre": "JOUR 3 : mercredi 27 mai 2026 Offre le meilleur à Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 4,
+    "date": "2026-05-28",
+    "titre": "JOUR 4 : jeudi 28 mai 2026 Le Cantique d’Anne",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 5,
+    "date": "2026-05-29",
+    "titre": "JOUR 5 : vendredi 28 mai 2026 Crainte respectueuse de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 6,
+    "date": "2026-05-30",
+    "titre": "JOUR 6 : samedi 30 mai 2026 Justice divine",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 7,
+    "date": "2026-05-31",
+    "titre": "JOUR 7 : dimanche 31 mai 2026 Un cœur attentif à Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 8,
+    "date": "2026-06-01",
+    "titre": "JOUR 8 : lundi 1er juin 2026 Par-delà les signes",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 9,
+    "date": "2026-06-02",
+    "titre": "JOUR 9 : mardi 2 juin 2026 La gloire s’est retirée",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 10,
+   "date": "2026-06-03",
+    "titre": "JOUR 10 : mercredi 3 juin 2026 Rompre avec les idoles",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 11,
+    "date": "2026-06-04",
+    "titre": "JOUR 11 : jeudi 4 juin 2026 Sagesse Inattendue",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 12,
+    "date": "2026-06-05",
+    "titre": "JOUR 12 : vendredi 5 juin 2026 Crainte sacrée",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 13,
+    "date": "2026-06-06",
+    "titre": "JOUR 13 : samedi 6 juin 2026 Grâce du repentir",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 14,
+    "date": "2026-06-07",
+    "titre": "JOUR 14 : dimanche 7 juin 2026 Fermer son cœur au Roi",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 15,
+    "date": "2026-06-08",
+    "titre": "JOUR 15 : lundi 8 juin 2026 Perdus en chemin, guidés par Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 16,
+    "date": "2026-06-09",
+    "titre": "JOUR 16 : mardi 9 juin 2026 Façonnés par Dieu pour de grandes choses",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 17,
+    "date": "2026-06-10",
+    "titre": "JOUR 17 : mercredi 10 juin 2026 Conduire sous l'inspiration divine",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 18,
+    "date": "2026-06-11",
+    "titre": "JOUR 18 : jeudi 11 juin 2026 Une amitié fondée sur la vérité et la grâce",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 19,
+    "date": "2026-06-12",
+    "titre": "JOUR 19 : vendredi 12 juin 2026 Zèle ardent pour la volonté de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 20,
+    "date": "2026-06-13",
+    "titre": "JOUR 20 : samedi 13 juin 2026 Un cœur intègre devant Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 21,
+    "date": "2026-06-14",
+    "titre": "JOUR 21 : dimanche 14 juin 2026 L’intercession qui touche le cœur de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 22,
+    "date": "2026-06-15",
+    "titre": "JOUR 22 : lundi 15 juin 2026 La valeur de la patience",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 23,
+    "date": "2026-06-16",
+    "titre": "Jour 23 : mardi 16 juin 2026 Marcher dans la foi",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 24,
+    "date": "2026-06-17",
+    "titre": "Jour 24 : mercredi 17 juin 2026 Passer à l’action pour Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 25,
+    "date": "2026-06-18",
+    "titre": "Jour 25 : jeudi 18 juin 2026 Une réponse ferme à l’appel de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 26,
+    "date": "2026-06-19",
+    "titre": "Jour 26 : vendredi 19 juin 2026 Le parcours du discernement",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 27,
+    "date": "2026-06-20",
+    "titre": "Jour 27 : samedi 20 juin 2026 Répondre à l’appel avec engagement",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 28,
+    "date": "2026-06-21",
+    "titre": "Jour 28 : dimanche 21 juin 2026 L’obéissance qui plaît à Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 29,
+    "date": "2026-06-22",
+    "titre": "JOUR 29 : lundi 22 juin 2026 Se regarder à la lumière de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 30,
+    "date": "2026-06-23",
+    "titre": "JOUR 30 : mardi 23 juin 2026 Un retour sincère vers Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 31,
+    "date": "2026-06-24",
+    "titre": "JOUR 31 : lundi 24 juin 2026 Le regard de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 32,
+    "date": "2026-06-25",
+    "titre": "JOUR 32 : jeudi 25 juin 2026 Servir même son rival",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 33,
+    "date": "2026-06-26",
+    "titre": "JOUR 33 : vendredi 26 juin 2026 Le courage face à la peur",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 34,
+    "date": "2026-06-27",
+    "titre": "JOUR 34 : samedi 27 juin 2026 L’élan du cœur pour le Seigneur",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 35,
+    "date": "2026-06-28",
+    "titre": "JOUR 35 : dimanche 28 juin 2026 Être un homme selon Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 36,
+    "date": "2026-06-29",
+    "titre": "JOUR 36 : lundi 29 mai 2026 La frontière entre confiance en Dieu et orgueil",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 37,
+    "date": "2026-06-30",
+    "titre": "JOUR 37 : mardi 30 juin 2026 Fraternité d’alliance",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 38,
+    "date": "2026-07-01",
+    "titre": "JOUR 38 : mercredi 1er juillet 2026 Le cœur qui s’abaisse devant Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 39,
+    "date": "2026-07-02",
+    "titre": "JOUR 39 : jeudi 2 juillet 2026 Marcher en toute honnêteté devant Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 40,
+    "date": "2026-07-03",
+    "titre": "JOUR 40 : vendredi 3 juillet 2026 Une fidélité ferme et constante",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 41,
+    "date": "2026-07-04",
+    "titre": "JOUR 41 : samedi 4 juillet 2026 S’abandonner à la providence divine",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 42,
+    "date": "2026-07-05",
+    "titre": "JOUR 42 : dimanche 7 juillet 2026 L’amitié selon le cœur de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 43,
+    "date": "2026-07-06",
+    "titre": "JOUR 43 : lundi 6 juillet 2026 Fraternité et fidélité en temps d’épreuve",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 44,
+    "date": "2026-07-07",
+    "titre": "JOUR 44 : mardi 7 juillet 2026 La créativité au service de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 45,
+    "date": "2026-07-08",
+    "titre": "JOUR 45 : mercredi 8 juillet 2026 La sagesse comme chemin de vie",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 46,
+    "date": "2026-07-09",
+    "titre": "JOUR 46 : jeudi 9 juillet 2026 Le leadership selon le cœur de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 47,
+    "date": "2026-07-10",
+    "titre": "JOUR 47 : vendredi 10 juillet 2026 Le cœur qui protège avec amour",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 48,
+    "date": "2026-07-11",
+    "titre": "JOUR 48 : samedi 11 juillet 2026 Servir avec un cœur libre et aimant",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 49,
+    "date": "2026-07-12",
+    "titre": "JOUR 49 : dimanche 12 juillet 2026 Le timing parfait de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 50,
+    "date": "2026-07-13",
+    "titre": "JOUR 50 : lundi 13 juillet 2026 La miséricorde selon le cœur d’un roi",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 51,
+    "date": "2026-07-14",
+    "titre": "JOUR 51 : mardi 14 juillet 2026 La puissance de la maîtrise de soi",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 52,
+    "date": "2026-07-15",
+    "titre": "JOUR 52 : mercredi 15 juillet 2026 Écouter avec le cœur, c’est marcher avec Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+  {
+    "id": 53,
+    "date": "2026-07-16",
+    "titre": "JOUR 53 : jeudi 16 juillet 2026 Le jugement juste de Dieu",
+    "reference_biblique": "1 Samuel ",
+    "texte_biblique": "",
+    "reflexion": "",
+    "resolution": "",
+    "paroisse": null
+  },
+]
