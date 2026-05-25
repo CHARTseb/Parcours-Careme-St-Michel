@@ -42,7 +42,7 @@
   {
     "id": 5,
     "date": "2026-05-29",
-    "titre": "JOUR 5 : vendredi 28 mai 2026 Crainte respectueuse de Dieu",
+    "titre": "JOUR 5 : vendredi 29 mai 2026 Crainte respectueuse de Dieu",
     "reference_biblique": "1 Samuel ",
     "texte_biblique": "",
     "reflexion": "",
@@ -412,7 +412,7 @@
   {
     "id": 42,
     "date": "2026-07-05",
-    "titre": "JOUR 42 : dimanche 7 juillet 2026 L’amitié selon le cœur de Dieu",
+    "titre": "JOUR 42 : dimanche 5 juillet 2026 L’amitié selon le cœur de Dieu",
     "reference_biblique": "1 Samuel ",
     "texte_biblique": "",
     "reflexion": "",
@@ -520,13 +520,13 @@
     "paroisse": null
   },
   {
-    "id": 53,
-    "date": "2026-07-16",
-    "titre": "JOUR 53 : jeudi 16 juillet 2026 Le jugement juste de Dieu",
-    "reference_biblique": "1 Samuel ",
-    "texte_biblique": "",
-    "reflexion": "",
-    "resolution": "",
-    "paroisse": null
-  },
+  "id": 53,
+  "date": "2026-07-16",
+  "titre": "JOUR 53 : jeudi 16 juillet 2026 Le jugement juste de Dieu",
+  "reference_biblique": "1 Samuel ",
+  "texte_biblique": "",
+  "reflexion": "",
+  "resolution": "",
+  "paroisse": null
+}
 ]
