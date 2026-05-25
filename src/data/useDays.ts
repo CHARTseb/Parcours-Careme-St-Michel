@@ -7,12 +7,30 @@ export function useDays() {
 
   useEffect(() => {
     fetch("/data/days.json")
-      .then(async (r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return (await r.json()) as DayEntry[];
+      .then(async (response) => {
+        const text = await response.text();
+
+        // Vérifie erreur HTTP
+        if (!response.ok) {
+          throw new Error(
+            `Erreur HTTP ${response.status} : ${text.slice(0, 120)}`
+          );
+        }
+
+        // Vérifie JSON valide
+        try {
+          return JSON.parse(text) as DayEntry[];
+        } catch (err: any) {
+          throw new Error(`JSON invalide : ${err.message}`);
+        }
       })
-      .then(setDays)
-      .catch((e: any) => setError(String(e?.message ?? e)));
+      .then((data) => {
+        setDays(data);
+      })
+      .catch((err: any) => {
+        console.error(err);
+        setError(String(err?.message ?? err));
+      });
   }, []);
 
   return { days, error };
