@@ -66,14 +66,15 @@
     "paroisse": null
   },
   {
-    "id": 7,
-    "date": "2026-05-31",
-    "titre": "JOUR 7 : dimanche 31 mai 2026 Un cœur attentif à Dieu",
-    "reference_biblique": "1 Samuel ",
-    "reflexion": "",
-    "resolution": "",
-    "priere": "",
-    "paroisse": null
+  "id": 7,
+  "date": "2026-05-31",
+  "titre": "JOUR 7 : dimanche 31 mai 2026 Un cœur attentif à Dieu",
+  "reference_biblique": "1 Samuel ",
+  "texte_biblique": "",
+  "reflexion": "",
+  "resolution": "",
+  "priere": "",
+  "paroisse": null
   },
   {
     "id": 8,
