@@ -1,6 +1,6 @@
 # Quel est votre **POURQUOI** ?
 
-Commencez ce parcours de Pâques avec une intention claire.
+Commencez ce parcours des Rois de l’Été avec une intention claire.
 
 Saint Dominique a dit un jour :
 
@@ -38,6 +38,7 @@ Elle est là pour aider à **discerner**.
 Prenez le temps de vous demander :
 
 - Qu’est-ce qui prend trop de place dans ma vie ?  
+- Qu’est-ce qui gouverne parfois mon cœur à la place de Dieu ?  
 - Qu’est-ce qui m’empêche d’aimer librement ?  
 - Qu’est-ce qui limite ma disponibilité intérieure ?  
 
@@ -60,6 +61,7 @@ Ce qui transforme profondément… c’est **l’amour**.
 Vous êtes invité à nommer une ou plusieurs personnes :
 - que vous aimez  
 - pour lesquelles vous souhaitez grandir  
+- que vous voulez mieux servir et mieux aimer  
 
 L’amour donne une force que l’on ne soupçonnait pas.
 
@@ -70,7 +72,7 @@ Elle en est la preuve.
 
 ## Écrire votre « pourquoi »
 
-Pendant ces **50 jours de Pâques**, vous serez invité à revenir régulièrement à votre *pourquoi*.
+Pendant ces **53 jours des Rois de l’Été**, vous serez invité à revenir régulièrement à votre *pourquoi*.
 
 Prenez ce temps d’écriture au sérieux.
 
@@ -78,7 +80,7 @@ Votre « pourquoi » peut s’appuyer sur **quatre points essentiels** :
 
 1. Nommer ce que vous souhaitez transformer ou laisser derrière vous  
 2. Nommer les personnes pour lesquelles vous voulez grandir  
-3. Expliquer concrètement en quoi votre liberté va changer votre manière d’aimer  
+3. Expliquer concrètement en quoi votre liberté va changer votre manière d’aimer et de servir  
 4. Dire comment cette liberté vous aide à répondre à l’appel de Dieu  
 
 ---
@@ -93,6 +95,21 @@ Votre « pourquoi » peut s’appuyer sur **quatre points essentiels** :
 
 Le premier est flou.  
 Le second est **clair**, **incarné** et donne une vraie direction.
+
+---
+
+## Construire une habitude royale
+
+La liberté se construit à travers des habitudes concrètes.
+
+Pendant ce parcours, vous êtes invité à choisir une habitude nouvelle qui soutiendra votre croissance :
+- une discipline de prière  
+- un acte de service  
+- une sobriété particulière  
+- un engagement concret  
+- un effort de fidélité quotidienne  
+
+Les grandes transformations commencent souvent par de petits actes répétés avec fidélité.
 
 ---
 
