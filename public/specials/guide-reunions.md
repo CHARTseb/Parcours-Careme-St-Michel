@@ -3,7 +3,7 @@
 ## 1. Commencer par la prière
 
 Cette prière est dite ensemble au début de chaque réunion.  
-Elle unit toute la fraternité dans une prière commune et continue à notre Seigneur.
+Elle unit toute la fraternité dans une même démarche de conversion, de fidélité et de liberté intérieure.
 
 > **Tous :**  
 > « Si quelqu’un veut venir à ma suite, qu’il se renie lui-même,  
@@ -17,29 +17,40 @@ Elle unit toute la fraternité dans une prière commune et continue à notre Sei
 > *(Évangile selon saint Luc 9, 23-25)*
 
 > **Lecteur :**  
-> Seigneur Jésus,  
-> tu nous appelles à être des femmes et des hommes pour les autres.  
+> Seigneur Jésus-Christ, Roi humble et victorieux,  
+> toi qui nous appelles à vivre dans la liberté des enfants de Dieu,  
+> apprends-nous à gouverner notre vie selon ton Cœur.  
 >  
-> Tu nous demandes d’abandonner nos vieilles habitudes,  
-> de renoncer à nos désirs égoïstes,  
-> d’accepter avec joie les difficultés quotidiennes  
-> et d’orienter toute notre vie vers toi.  
+> Donne-nous la force de renoncer à ce qui nous éloigne de toi :  
+> l’orgueil, la paresse, les distractions inutiles  
+> et les habitudes qui affaiblissent notre liberté intérieure.  
 >  
-> Apprends-nous, jour après jour,  
-> ce que signifie donner notre vie pour nos amis,  
-> par une vie de prière, de discipline et de fraternité.  
+> Aide-nous à vivre fidèlement les disciplines de ce parcours :  
+> la prière silencieuse,  
+> le service,  
+> la sobriété,  
+> la fraternité  
+> et la fidélité dans les petites choses.  
 >  
-> Donne-nous le désir de te suivre en toutes choses,  
-> la joie dans l’épreuve  
-> et le courage de conduire les autres vers toi.
+> Fais grandir entre nous une fraternité vraie,  
+> capable de porter les combats de chacun,  
+> d’encourager dans les épreuves  
+> et de marcher ensemble dans la lumière.  
+>  
+> Donne-nous un cœur semblable à celui de David :  
+> humble, fidèle et disponible à ton Esprit.
 
 > **Tous :**  
 > Merci, Seigneur Jésus, pour le don de cette fraternité.  
 >  
-> Puisses-tu continuer à agir à travers nos frères et sœurs  
-> pour nous encourager et nous relever,  
-> afin que nous devenions les personnes que tu nous appelles à être :  
-> des hommes et des femmes pour les autres.
+> Continue d’agir à travers nos frères et sœurs  
+> pour nous encourager, nous relever  
+> et nous aider à grandir dans la sainteté.  
+>  
+> Que ce parcours fasse de nous des hommes et des femmes libres,  
+> enracinés dans la prière,  
+> fidèles dans le service  
+> et capables de témoigner de ton Royaume.
 
 Je vous salue Marie.
 
@@ -51,14 +62,21 @@ Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
 
 Chaque personne donne un **rapport bref** sur son expérience de la semaine écoulée.
 
-Ce rapport couvre **les trois piliers** du parcours :
+Ce rapport couvre **les grands piliers** du parcours :
 
-- **La prière**
-- **Les disciplines** (les points vécus + et −)
-- **L’aide fraternelle** (l’ancre)
+- **La prière silencieuse quotidienne**
+- **Les disciplines et ascèses**
+- **Le service**
+- **La fraternité et l’ancre**
+- **La fidélité au dimanche et au vendredi**
 
-Les difficultés importantes peuvent être partagées et portées ensemble.  
-Les points plus légers peuvent simplement être mentionnés.
+Concernant les ascèses, chacun peut partager :
+- les combats rencontrés  
+- les fidélités vécues  
+- les difficultés concrètes  
+- les fruits observés  
+
+Les difficultés importantes peuvent être portées ensemble dans la prière et le soutien fraternel.
 
 La fraternité prend aussi le temps de **remercier Dieu** pour les grâces reçues.
 
@@ -73,18 +91,36 @@ Il anime un temps d’échange autour de :
 - la manière dont chacun vit concrètement ce point  
 - les difficultés rencontrées  
 - les ajustements possibles  
+- les fruits spirituels observés  
+
+Exemples :
+- fidélité à la prière silencieuse  
+- usage du téléphone et des écrans  
+- sobriété alimentaire  
+- équilibre dans les loisirs  
+- fidélité au sport ou au sommeil  
+- qualité du service rendu aux autres  
+- capacité à vivre un vrai repos chrétien  
 
 ---
 
-## 4. Choisir un point à alléger pour le dimanche
+## 4. Vivre le dimanche comme un jour du Seigneur
 
-La fraternité choisit ensemble **un point à alléger pour le dimanche**.
+La fraternité prend un temps pour réfléchir à la manière de vivre le dimanche :
+- comme un jour de joie  
+- de repos  
+- de fraternité  
+- de prière  
+- et d’action de grâce.
+
+Des disciplines peuvent être allégées avec sagesse afin de mieux vivre la joie du Jour du Seigneur.
 
 Exemples :
 - musique  
-- sucre (avec mesure)
+- desserts ou sucreries avec modération  
+- temps festifs vécus dans la charité et la simplicité  
 
-Le dimanche reste un jour de joie et de liberté.
+Le dimanche n’est pas un jour de relâchement spirituel, mais un jour de célébration du Royaume de Dieu.
 
 ---
 
@@ -93,10 +129,10 @@ Le dimanche reste un jour de joie et de liberté.
 La réunion se termine par la prière de **saint Michel Archange**, demandant la protection spirituelle :
 
 - de la fraternité  
-- des personnes engagées dans ce parcours de Pâques  
-- des prêtres  
+- des personnes engagées dans le parcours des Rois de l’Été  
 - des familles  
-- et pour la sanctification de l’Église  
+- des prêtres  
+- et de toute l’Église  
 
 ### Prière à saint Michel Archange
 
