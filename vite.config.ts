@@ -14,7 +14,7 @@ export default defineConfig({
 
       manifest: {
         name: 'Ete 2026',
-        short_name: 'Ete',
+        short_name: 'Les rois de l ete',
         description: 'Parcours chretien de l ete',
 
         start_url: '/',

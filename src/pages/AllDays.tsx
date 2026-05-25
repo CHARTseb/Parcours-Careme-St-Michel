@@ -7,8 +7,12 @@ import { cleanMd, mdComponents } from "../utils/markdown";
 
 function excerpt(s: string | null | undefined, max: number) {
   const t = (s ?? "").trim();
+
   if (!t) return "";
-  return t.length > max ? t.slice(0, max).trimEnd() + "…" : t;
+
+  return t.length > max
+    ? t.slice(0, max).trimEnd() + "…"
+    : t;
 }
 
 export default function AllDays({
@@ -17,6 +21,7 @@ export default function AllDays({
   onSelectDay: (id: number) => void;
 }) {
   const { days, error } = useDays();
+
   const [q, setQ] = useState("");
 
   const filtered = useMemo(() => {
@@ -25,6 +30,7 @@ export default function AllDays({
     const sorted = days.slice().sort((a, b) => {
       const da = new Date(String(a.date).trim()).getTime();
       const db = new Date(String(b.date).trim()).getTime();
+
       return da - db;
     });
 
@@ -38,15 +44,22 @@ export default function AllDays({
         d.texte_biblique ?? "",
         d.reflexion ?? "",
         d.resolution ?? "",
+        d.priere ?? "",
       ]
         .join(" ")
         .toLowerCase();
+
       return hay.includes(query);
     });
   }, [days, q]);
 
-  if (error) return <div style={{ padding: 20 }}>Erreur: {error}</div>;
-  if (!days.length) return <div style={{ padding: 20 }}>Chargement…</div>;
+  if (error) {
+    return <div style={{ padding: 20 }}>Erreur: {error}</div>;
+  }
+
+  if (!days.length) {
+    return <div style={{ padding: 20 }}>Chargement…</div>;
+  }
 
   return (
     <div style={{ maxWidth: 820, margin: "0 auto", padding: 16 }}>
@@ -67,8 +80,12 @@ export default function AllDays({
 
       {filtered.map((d: DayEntry) => {
         const biblePreview = excerpt(d.texte_biblique, 180);
+
         const reflexionPreview = excerpt(d.reflexion, 220);
+
         const resolutionPreview = excerpt(d.resolution, 160);
+
+        const prierePreview = excerpt(d.priere, 180);
 
         return (
           <div
@@ -77,31 +94,47 @@ export default function AllDays({
             tabIndex={0}
             onClick={() => onSelectDay(d.id)}
             onKeyDown={(e) => {
-              if (e.key === "Enter" || e.key === " ") onSelectDay(d.id);
+              if (e.key === "Enter" || e.key === " ") {
+                onSelectDay(d.id);
+              }
             }}
             style={{ cursor: "pointer" }}
           >
             <Card title={d.titre}>
+              {/* Référence biblique */}
               {d.reference_biblique ? (
                 <div style={{ opacity: 0.9, marginBottom: 8 }}>
                   <b>{d.reference_biblique}</b>
                 </div>
               ) : null}
 
+              {/* Texte biblique */}
               {biblePreview ? (
                 <div
                   className="bibleText"
-                  style={{ fontStyle: "italic", opacity: 0.9, marginBottom: 10 }}
+                  style={{
+                    fontStyle: "italic",
+                    opacity: 0.9,
+                    marginBottom: 10,
+                  }}
                 >
                   {biblePreview}
                 </div>
               ) : null}
 
+              {/* Méditation */}
               {reflexionPreview ? (
                 <div style={{ marginBottom: 10 }}>
-                  <div style={{ fontWeight: 700, marginBottom: 4, opacity: 0.9 }}>
-                    Réflexion
+                  <div
+                    style={{
+                      fontWeight: 700,
+                      marginBottom: 4,
+                      opacity: 0.9,
+                    }}
+                  >
+                    Méditation
                   </div>
+
                   <div className="md bodyText">
                     <ReactMarkdown components={mdComponents}>
                       {cleanMd(reflexionPreview)}
@@ -110,14 +143,49 @@ export default function AllDays({
                 </div>
               ) : null}
 
+              {/* Conversion */}
               {resolutionPreview ? (
-                <div>
-                  <div style={{ fontWeight: 700, marginBottom: 4, opacity: 0.9 }}>
-                    Résolution
+                <div style={{ marginBottom: 10 }}>
+                  <div
+                    style={{
+                      fontWeight: 700,
+                      marginBottom: 4,
+                      opacity: 0.9,
+                    }}
+                  >
+                    Conversion
                   </div>
+
                   <div className="md bodyText">
                     <ReactMarkdown components={mdComponents}>
                       {cleanMd(resolutionPreview)}
+                    </ReactMarkdown>
+                  </div>
+                </div>
+              ) : null}
+
+              {/* Prière */}
+              {prierePreview ? (
+                <div style={{ marginBottom: 6 }}>
+                  <div
+                    style={{
+                      fontWeight: 700,
+                      marginBottom: 4,
+                      opacity: 0.9,
+                    }}
+                  >
+                    Prière
+                  </div>
+
+                  <div
+                    className="md bodyText"
+                    style={{
+                      fontStyle: "italic",
+                      opacity: 0.92,
+                    }}
+                  >
+                    <ReactMarkdown components={mdComponents}>
+                      {cleanMd(prierePreview)}
                     </ReactMarkdown>
                   </div>
                 </div>

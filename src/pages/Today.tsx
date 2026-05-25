@@ -47,8 +47,8 @@ export default function Today({
 
         <Card title="Pas de contenu pour aujourd’hui">
           <div style={{ opacity: 0.85, lineHeight: 1.35 }}>
-            Aucune entrée n’est prévue pour la date du jour ({formatDateFR(todayIso)}
-            ).
+            Aucune entrée n’est prévue pour la date du jour (
+            {formatDateFR(todayIso)}).
           </div>
 
           {firstEntry ? (
@@ -81,8 +81,11 @@ export default function Today({
         >
           <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
             <b>{formatDateFR(todayEntry.date)}</b>
+
             {noteExists ? (
-              <span style={{ fontSize: 12, opacity: 0.75 }}>• Note enregistrée</span>
+              <span style={{ fontSize: 12, opacity: 0.75 }}>
+                • Note enregistrée
+              </span>
             ) : null}
           </div>
 
@@ -128,7 +131,11 @@ export default function Today({
         {todayEntry.texte_biblique ? (
           <div
             className="bibleText"
-            style={{ fontStyle: "italic", marginBottom: 14, opacity: 0.95 }}
+            style={{
+              fontStyle: "italic",
+              marginBottom: 14,
+              opacity: 0.95,
+            }}
           >
             {todayEntry.texte_biblique}
           </div>
@@ -137,7 +144,8 @@ export default function Today({
         {/* Réflexion */}
         {todayEntry.reflexion ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Réflexion</h3>
+            <h3 style={{ margin: "10px 0 4px" }}>Méditation</h3>
+
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
                 {cleanMd(todayEntry.reflexion)}
@@ -149,7 +157,8 @@ export default function Today({
         {/* Résolution */}
         {todayEntry.resolution ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Résolution</h3>
+            <h3 style={{ margin: "10px 0 4px" }}>Conversion</h3>
+
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
                 {cleanMd(todayEntry.resolution)}
@@ -158,10 +167,33 @@ export default function Today({
           </>
         ) : null}
 
+        {/* Prière */}
+        {todayEntry.priere ? (
+          <>
+            <h3 style={{ margin: "10px 0 4px" }}>Prière</h3>
+
+            <div
+              className="md bodyText"
+              style={{
+                fontStyle: "italic",
+                opacity: 0.92,
+                lineHeight: 1.7,
+              }}
+            >
+              <ReactMarkdown components={mdComponents}>
+                {cleanMd(todayEntry.priere)}
+              </ReactMarkdown>
+            </div>
+          </>
+        ) : null}
+
         {/* Paroisse */}
         {todayEntry.paroisse ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Proposition en paroisse</h3>
+            <h3 style={{ margin: "10px 0 4px" }}>
+              Proposition en paroisse
+            </h3>
+
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
                 {cleanMd(todayEntry.paroisse)}

@@ -13,7 +13,11 @@ export default function DayDetail({
   onBack: () => void;
 }) {
   const { days, error } = useDays();
-  const day = useMemo(() => days.find((d) => d.id === id), [days, id]);
+
+  const day = useMemo(
+    () => days.find((d) => d.id === id),
+    [days, id]
+  );
 
   if (error) return <div style={{ padding: 20 }}>Erreur: {error}</div>;
   if (!days.length) return <div style={{ padding: 20 }}>Chargement…</div>;
@@ -37,27 +41,32 @@ export default function DayDetail({
       </button>
 
       <Card title={day.titre}>
-        {/* Référence biblique en gras (sans date) */}
+        {/* Référence biblique */}
         {day.reference_biblique ? (
           <div style={{ opacity: 0.9, marginBottom: 10 }}>
             <b>{day.reference_biblique}</b>
           </div>
         ) : null}
 
-        {/* Texte biblique en italique */}
+        {/* Texte biblique */}
         {day.texte_biblique ? (
           <div
             className="bibleText"
-            style={{ fontStyle: "italic", marginBottom: 14, opacity: 0.95 }}
+            style={{
+              fontStyle: "italic",
+              marginBottom: 14,
+              opacity: 0.95,
+            }}
           >
             {day.texte_biblique}
           </div>
         ) : null}
 
-        {/* Réflexion */}
+        {/* Méditation */}
         {day.reflexion ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Réflexion</h3>
+            <h3 style={{ margin: "10px 0 4px" }}>Méditation</h3>
+
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
                 {cleanMd(day.reflexion)}
@@ -66,10 +75,11 @@ export default function DayDetail({
           </>
         ) : null}
 
-        {/* Résolution */}
+        {/* Conversion */}
         {day.resolution ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Résolution</h3>
+            <h3 style={{ margin: "10px 0 4px" }}>Conversion</h3>
+
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
                 {cleanMd(day.resolution)}
@@ -78,10 +88,33 @@ export default function DayDetail({
           </>
         ) : null}
 
+        {/* Prière */}
+        {day.priere ? (
+          <>
+            <h3 style={{ margin: "10px 0 4px" }}>Prière</h3>
+
+            <div
+              className="md bodyText"
+              style={{
+                fontStyle: "italic",
+                opacity: 0.92,
+                lineHeight: 1.7,
+              }}
+            >
+              <ReactMarkdown components={mdComponents}>
+                {cleanMd(day.priere)}
+              </ReactMarkdown>
+            </div>
+          </>
+        ) : null}
+
         {/* Paroisse */}
         {day.paroisse ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Proposition en paroisse</h3>
+            <h3 style={{ margin: "10px 0 4px" }}>
+              Proposition en paroisse
+            </h3>
+
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
                 {cleanMd(day.paroisse)}
@@ -90,7 +123,7 @@ export default function DayDetail({
           </>
         ) : null}
 
-        {/* ✅ NOUVEAU : Note personnelle pour ce jour */}
+        {/* Note personnelle */}
         <DayNoteEditor dayId={String(day.id)} />
       </Card>
     </div>
