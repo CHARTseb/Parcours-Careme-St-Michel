@@ -17,7 +17,7 @@ export type SpecialPage = {
 };
 
 export const SPECIAL_PAGES: SpecialPage[] = [
-  { id: "parcours-exodus", title: "Parcours les rois de l'été", mdPath: "/specials/parcours-exodus.md" },
+  { id: "parcours-exodus", title: "Parcours carême St Michel", mdPath: "/specials/parcours-exodus.md" },
   { id: "priere", title: "La Prière", mdPath: "/specials/priere.md" },
   { id: "heure-sainte", title: "Prier une heure sainte", mdPath: "/specials/heure-sainte.md" },
   { id: "asceses", title: "Les Ascèses", mdPath: "/specials/asceses.md" },
