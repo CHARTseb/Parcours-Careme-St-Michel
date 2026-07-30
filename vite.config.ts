@@ -13,8 +13,8 @@ export default defineConfig({
       injectRegister: 'auto',
 
       manifest: {
-        name: 'Ete 2026',
-        short_name: 'Les rois de l ete',
+        name: 'Carême Saint Michel',
+        short_name: 'Carême St Michel',
         description: 'Parcours chretien de l ete',
 
         start_url: '/',
