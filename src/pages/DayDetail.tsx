@@ -62,6 +62,19 @@ export default function DayDetail({
           </div>
         ) : null}
 
+        {/* Consignes - données provenant du champ paroisse */}
+        {day.paroisse ? (
+          <>
+            <h3 style={{ margin: "10px 0 4px" }}>Consignes</h3>
+
+            <div className="md bodyText">
+              <ReactMarkdown components={mdComponents}>
+                {cleanMd(day.paroisse)}
+              </ReactMarkdown>
+            </div>
+          </>
+        ) : null}
+
         {/* Méditation */}
         {day.reflexion ? (
           <>
@@ -103,21 +116,6 @@ export default function DayDetail({
             >
               <ReactMarkdown components={mdComponents}>
                 {cleanMd(day.priere)}
-              </ReactMarkdown>
-            </div>
-          </>
-        ) : null}
-
-        {/* Paroisse */}
-        {day.paroisse ? (
-          <>
-            <h3 style={{ margin: "10px 0 4px" }}>
-              Proposition en paroisse
-            </h3>
-
-            <div className="md bodyText">
-              <ReactMarkdown components={mdComponents}>
-                {cleanMd(day.paroisse)}
               </ReactMarkdown>
             </div>
           </>
