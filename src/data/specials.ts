@@ -1,9 +1,9 @@
 export type SpecialId =
+  | "combat"
   | "parcours-exodus"
   | "priere"
   | "heure-sainte"
   | "asceses"
-  | "combat"
   | "fraternite"
   | "pourquoi"
   | "guide-reunions"
@@ -17,6 +17,11 @@ export type SpecialPage = {
 };
 
 export const SPECIAL_PAGES: SpecialPage[] = [
+  {
+    id: "combat",
+    title: "Le Plan de Combat",
+    mdPath: "/specials/combat.md",
+  },
   {
     id: "parcours-exodus",
     title: "Parcours carême St Michel",
@@ -37,23 +42,14 @@ export const SPECIAL_PAGES: SpecialPage[] = [
     title: "Les Ascèses",
     mdPath: "/specials/asceses.md",
   },
-
-  // ✅ Nouvelle page
-  {
-    id: "combat",
-    title: "Le Plan de Combat",
-    mdPath: "/specials/combat.md",
-  },
-
   {
     id: "fraternite",
     title: "La Fraternité",
     mdPath: "/specials/fraternite.md",
   },
-
   {
     id: "pourquoi",
-    title: "Votre Pourquoi",
+    title: "Votre appel",
     mdPath: "/specials/votre-pourquoi.md",
   },
   {

@@ -1,171 +1,141 @@
-# Quel est votre **POURQUOI** ?
+# Quel est votre appel ?
 
-Commencez ce parcours des Rois de l’Été avec une intention claire.
+Avant de commencer ce Carême de saint Michel Archange, prenez le temps de vous arrêter.
 
-Saint Dominique a dit un jour :
+Pourquoi le Seigneur vous invite-t-il à vivre ces quarante-cinq jours ?
 
-> « Celui qui maîtrise ses passions est maître de lui-même.  
-> Nous devons soit les gouverner, soit être gouvernés par elles. »
+Aucune démarche spirituelle ne porte durablement du fruit si elle n'est pas habitée par un désir profond.
 
-Pourquoi avez-vous choisi de vivre ce parcours ?
+Dieu ne vous appelle pas seulement à faire davantage d'efforts.
 
-Beaucoup de personnes qui s’engagent dans ce chemin désirent **plus de liberté**.  
-Elles ressentent, parfois confusément, qu’elles ne sont pas aussi libres qu’elles pourraient l’être pour aimer, servir et se donner pleinement — à Dieu comme aux autres.
-
-Mais prenons le temps d’être vrais.
+Il vous appelle à vous laisser transformer.
 
 ---
 
-## Nommer ses chaînes
+# ⚔️ Entrer dans le combat
 
-Nous pouvons être attachés à différentes choses, parfois discrètement, parfois de manière évidente.
+Le combat spirituel commence toujours dans le cœur.
 
-Par exemple :
+Avant de lutter contre les tentations, il est bon de reconnaître les lieux où nous sommes les plus fragiles.
 
-- le téléphone, les messages, les réseaux  
-- le travail  
-- les écrans, les vidéos, les jeux  
-- la nourriture, l’alcool, la caféine  
-- l’argent  
-- l’image de soi, le regard des autres  
-- le besoin de contrôle  
-- le confort  
-- certaines habitudes ou comportements  
+Demandez-vous simplement :
 
-Cette liste n’est **ni exhaustive**, ni accusatrice.  
-Elle est là pour aider à **discerner**.
+- Quels sont aujourd'hui les principaux combats de ma vie ?
+- Où ai-je le plus besoin de la grâce de Dieu ?
+- Qu'est-ce qui m'empêche d'aimer pleinement ?
+- Qu'est-ce qui m'éloigne de la paix du Christ ?
 
-Prenez le temps de vous demander :
+N'ayez pas peur de regarder votre réalité avec vérité.
 
-- Qu’est-ce qui prend trop de place dans ma vie ?  
-- Qu’est-ce qui gouverne parfois mon cœur à la place de Dieu ?  
-- Qu’est-ce qui m’empêche d’aimer librement ?  
-- Qu’est-ce qui limite ma disponibilité intérieure ?  
-
-Soyez honnête :
-- avec vous-même  
-- avec votre fraternité  
-- avec Dieu  
-
-Cette vérité est un **point de départ vers la liberté**.
+C'est toujours le point de départ de la miséricorde.
 
 ---
 
-## Aller plus loin que le renoncement
+# ❤️ Pour qui voulez-vous grandir ?
 
-Identifier une difficulté est important.  
-Mais pour avancer dans la durée, la volonté seule ne suffit pas.
+La sainteté n'est jamais une réussite personnelle.
 
-Ce qui transforme profondément… c’est **l’amour**.
+Elle est toujours un acte d'amour.
 
-Vous êtes invité à nommer une ou plusieurs personnes :
-- que vous aimez  
-- pour lesquelles vous souhaitez grandir  
-- que vous voulez mieux servir et mieux aimer  
+Prenez le temps de nommer les personnes pour lesquelles vous désirez devenir davantage l'homme ou la femme que Dieu appelle.
 
-L’amour donne une force que l’on ne soupçonnait pas.
+- votre conjoint ;
+- vos enfants ;
+- votre famille ;
+- vos amis ;
+- votre communauté ;
+- toutes les personnes que le Seigneur vous confie.
 
-Regardez la croix.  
-Elle en est la preuve.
+L'amour donne un sens au combat.
 
----
-
-## Écrire votre « pourquoi »
-
-Pendant ces **53 jours des Rois de l’Été**, vous serez invité à revenir régulièrement à votre *pourquoi*.
-
-Prenez ce temps d’écriture au sérieux.
-
-Votre « pourquoi » peut s’appuyer sur **quatre points essentiels** :
-
-1. Nommer ce que vous souhaitez transformer ou laisser derrière vous  
-2. Nommer les personnes pour lesquelles vous voulez grandir  
-3. Expliquer concrètement en quoi votre liberté va changer votre manière d’aimer et de servir  
-4. Dire comment cette liberté vous aide à répondre à l’appel de Dieu  
+Il devient la force qui nous relève lorsque nos seules résolutions ne suffisent plus.
 
 ---
 
-## Exemples
+# 🌿 Quelle grâce demandez-vous ?
 
-- Exemple vague :  
-  « Je veux être plus présent. »
+Le Carême de saint Michel est avant tout un temps de grâce.
 
-- Exemple concret :  
-  « Je veux me libérer de mon usage excessif du téléphone pour être plus disponible et attentif aux personnes que j’aime, et avancer dans la mission que Dieu me confie. »
+Avant de penser à ce que vous allez faire, demandez-vous ce que vous souhaitez recevoir du Seigneur.
 
-Le premier est flou.  
-Le second est **clair**, **incarné** et donne une vraie direction.
+Peut-être désirez-vous :
 
----
+- retrouver la paix ;
+- grandir dans la confiance ;
+- devenir plus libre ;
+- approfondir votre vie de prière ;
+- apprendre à pardonner ;
+- sortir d'une habitude qui vous éloigne de Dieu ;
+- aimer davantage.
 
-## Construire une habitude royale
-
-La liberté se construit à travers des habitudes concrètes.
-
-Pendant ce parcours, vous êtes invité à choisir une habitude nouvelle qui soutiendra votre croissance :
-- une discipline de prière  
-- un acte de service  
-- une sobriété particulière  
-- un engagement concret  
-- un effort de fidélité quotidienne  
-
-Les grandes transformations commencent souvent par de petits actes répétés avec fidélité.
+Demandez cette grâce avec simplicité.
 
 ---
 
-## Faire un choix courageux
+# ✍️ Écrivez votre appel
 
-Plusieurs points peuvent vous venir à l’esprit.
+Pendant ces quarante-cinq jours, vous reviendrez régulièrement à cette page.
 
-C’est normal.
+Prenez le temps d'écrire votre réponse au Seigneur.
 
-Choisissez cependant **une ou deux priorités maximum** :
-- ce qui vous freine le plus  
-- ou ce qui revient le plus souvent  
+Elle pourra évoluer au fil du parcours.
 
-Ce choix demande du courage, mais il apporte de la clarté.
-
-> **Rappelez-vous :**  
-> Dieu désire votre liberté encore plus que vous.
-
-> Prenez un temps de silence.  
-> Éloignez-vous des distractions.  
-> Placez-vous en présence de Dieu.  
-> Demandez-lui la grâce de voir juste… et d’oser la vérité.
+Laissez l'Esprit Saint la faire grandir.
 
 ---
 
-## Écrivez votre pourquoi
+# Quelques conseils
 
-Prenez un moment seul, sans vous presser.  
-Écrivez simplement, avec des mots vrais.
+Ne cherchez pas à tout changer.
 
-### Ce que je veux transformer
+Choisissez une ou deux priorités.
 
-<span data-editable="dependance"></span>
+Le Seigneur transforme les cœurs avec patience.
+
+La fidélité quotidienne vaut davantage que les grands élans passagers.
 
 ---
 
-### Les personnes pour lesquelles je veux grandir
+# Prenez un temps de silence
+
+Placez-vous en présence de Dieu.
+
+Demandez à l'Esprit Saint de vous éclairer.
+
+Confiez-vous à la Vierge Marie.
+
+Invoquez saint Michel Archange.
+
+Puis écrivez simplement ce qui habite votre cœur.
+
+---
+
+# Les combats que je confie au Seigneur
+
+<span data-editable="combats"></span>
+
+---
+
+# Les personnes pour lesquelles je veux grandir
 
 <span data-editable="personnes"></span>
 
 ---
 
-### Ce que cela changera concrètement
+# La grâce que je demande
 
-<span data-editable="service"></span>
-
----
-
-### Ce vers quoi Dieu m’appelle
-
-<span data-editable="plan"></span>
+<span data-editable="grace"></span>
 
 ---
 
-### Mon **POURQUOI**
+# Les engagements concrets que je choisis
 
-<span data-editable="pourquoi"></span>
+<span data-editable="engagements"></span>
 
-> « Je veux avancer vers … pour … afin de … »
+---
+
+# Mon appel
+
+<span data-editable="appel"></span>
+
+> **« Seigneur, pendant ce Carême de saint Michel, je désire... »**

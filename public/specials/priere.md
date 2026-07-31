@@ -1,82 +1,104 @@
 # La Prière
 
-Nous sommes tous appelés à participer à la mission du Christ, chacun à notre place.
+La prière est le cœur du combat spirituel.
 
-Prenez un instant pour vous poser cette question :  
-Est-ce que ma vie est vraiment guidée par Dieu ?
+Avant toute action, avant tout engagement, Dieu nous appelle à demeurer avec Lui.
 
-Est-ce que les personnes qui m’entourent peuvent s’appuyer sur moi ?  
-Est-ce que mes choix sont éclairés par la prière ?
+C'est dans la prière que nous apprenons à reconnaître sa voix, à accueillir sa volonté et à recevoir la force nécessaire pour avancer.
 
----
+Sans la prière, notre combat repose uniquement sur nos propres forces.
 
-Sans une vie enracinée dans la prière, il devient difficile de discerner où Dieu nous appelle.  
-Et encore plus difficile de guider les autres avec justesse.
-
-C’est dans la prière que tout commence.
+Avec la prière, nous laissons le Christ combattre en nous.
 
 ---
 
-## 🙏 Une rencontre quotidienne
+# 🙏 Une rencontre quotidienne
 
-Pendant ce temps de Pâques, vous êtes invités à prendre **20 minutes de prière silencieuse chaque jour**.
+Pendant ce Carême de saint Michel, vous êtes invités à prendre **20 minutes de prière silencieuse chaque jour**.
 
-Si vous pouvez donner plus de temps, faites-le librement.  
-Mais l’essentiel est la fidélité, pas la performance.
+Si vous pouvez offrir davantage de temps au Seigneur, faites-le librement.
 
-Ces 20 minutes sont un temps pour :
-- parler à Dieu  
-- mais aussi **l’écouter**
+L'important n'est pas la durée.
 
----
+L'important est la fidélité.
 
-## 🌿 Une prière qui transforme
+Ces vingt minutes sont un rendez-vous quotidien avec Dieu.
 
-La joie de Pâques se vit profondément dans la prière.
+Un temps pour Lui parler.
 
-Dans le silence :
-- nous trouvons la paix  
-- nous accueillons la vie nouvelle  
-- nous laissons Dieu nous transformer  
-
-Peu à peu, Dieu agit en nous et nous guide.
+Mais surtout un temps pour L'écouter.
 
 ---
 
-## 📖 Nourrir sa prière
+# 🌿 Une prière qui transforme
 
-Chaque jour :
-- lisez les **Écritures proposées**  
-- prenez un temps de **réflexion personnelle**  
+Dans le silence, Dieu façonne peu à peu notre cœur.
 
-La Parole de Dieu éclaire votre chemin et nourrit votre relation avec Lui.
+Il nous éclaire.
 
----
+Il nous console.
 
-## 🌱 Grandir dans l’écoute
+Il nous corrige.
 
-En restant fidèle à ce rendez-vous quotidien, vous apprendrez peu à peu à reconnaître la voix de Dieu.
+Il nous fortifie.
 
-Cette relation vivante vous aidera à :
-- faire des choix justes  
-- avancer avec confiance  
-- vivre votre mission au quotidien  
+La prière nous apprend à voir notre vie avec le regard du Christ et à discerner sa présence au milieu des joies comme des épreuves.
 
 ---
 
-## 📅 À vivre chaque jour
+# 📖 Se laisser nourrir par la Parole
 
-- Prendre **20 minutes de prière silencieuse**  
-- Lire les **Écritures et la réflexion du jour**  
+Chaque jour, prenez le temps de méditer les textes proposés.
+
+Ne cherchez pas d'abord à comprendre.
+
+Cherchez avant tout à accueillir.
+
+La Parole de Dieu est vivante.
+
+Elle éclaire nos choix, nourrit notre foi et renouvelle notre espérance.
+
+Laissez-la descendre dans votre cœur avant de vouloir l'expliquer.
 
 ---
 
-## ✨ Conclusion
+# 🔥 Grandir dans l'écoute
 
-La prière n’est pas une obligation.  
-C’est une **rencontre**.
+À force de fidélité, vous apprendrez peu à peu à reconnaître la voix du Seigneur.
 
-Un lieu où Dieu vous attend, chaque jour, pour vous parler, vous relever et vous envoyer.
+Cette écoute transformera votre manière de vivre.
 
-Prenez ce temps.  
-Tout commence ici.
+Elle vous aidera à :
+
+- discerner les mouvements de votre cœur ;
+- résister aux tentations ;
+- accueillir la paix de Dieu ;
+- grandir dans la confiance ;
+- demeurer fidèle au milieu du combat.
+
+---
+
+# 📅 À vivre chaque jour
+
+- Prendre **20 minutes de prière silencieuse**.
+- Méditer la Parole de Dieu proposée.
+- Terminer la journée par un examen de conscience.
+- Confier votre journée au Seigneur, à la Vierge Marie, à votre ange gardien et à saint Michel Archange.
+
+---
+
+# ✨ Tout commence dans la prière
+
+La prière n'est pas d'abord une activité.
+
+Elle est une rencontre.
+
+Chaque jour, Dieu vous attend.
+
+Il veut vous parler, vous relever, vous fortifier et vous conduire sur le chemin de la sainteté.
+
+Prenez fidèlement ce rendez-vous.
+
+Sous la protection de saint Michel Archange, laissez le Seigneur former votre cœur.
+
+**C'est dans la prière que commence chaque victoire spirituelle.**

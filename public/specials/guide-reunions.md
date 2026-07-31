@@ -1,155 +1,108 @@
-# Guide des réunions hebdomadaires
+# La Fraternité
 
-## 1. Commencer par la prière
+Le combat spirituel ne se mène jamais seul.
 
-Cette prière est dite ensemble au début de chaque réunion.  
-Elle unit toute la fraternité dans une même démarche de conversion, de fidélité et de liberté intérieure.
+Depuis les premiers disciples, Dieu appelle son peuple à marcher ensemble. Il nous donne des frères et des sœurs pour nous soutenir, nous encourager et nous aider à demeurer fidèles lorsque le combat devient plus exigeant.
 
-> **Tous :**  
-> « Si quelqu’un veut venir à ma suite, qu’il se renie lui-même,  
-> qu’il se charge de sa croix chaque jour et qu’il me suive.  
->  
-> Car celui qui voudra sauver sa vie la perdra ;  
-> mais celui qui perdra sa vie à cause de moi la sauvera.  
->  
-> En effet, que sert à un homme de gagner le monde entier,  
-> s’il se perd ou se ruine lui-même ? »  
-> *(Évangile selon saint Luc 9, 23-25)*
+Pendant ce Carême de saint Michel, vous avancerez au sein d'une **fraternité de 4 à 6 personnes**, composée d'hommes ou de femmes selon votre groupe.
 
-> **Lecteur :**  
-> Seigneur Jésus-Christ, Roi humble et victorieux,  
-> toi qui nous appelles à vivre dans la liberté des enfants de Dieu,  
-> apprends-nous à gouverner notre vie selon ton Cœur.  
->  
-> Donne-nous la force de renoncer à ce qui nous éloigne de toi :  
-> l’orgueil, la paresse, les distractions inutiles  
-> et les habitudes qui affaiblissent notre liberté intérieure.  
->  
-> Aide-nous à vivre fidèlement les disciplines de ce parcours :  
-> la prière silencieuse,  
-> le service,  
-> la sobriété,  
-> la fraternité  
-> et la fidélité dans les petites choses.  
->  
-> Fais grandir entre nous une fraternité vraie,  
-> capable de porter les combats de chacun,  
-> d’encourager dans les épreuves  
-> et de marcher ensemble dans la lumière.  
->  
-> Donne-nous un cœur semblable à celui de David :  
-> humble, fidèle et disponible à ton Esprit.
+Cette fraternité n'est pas un simple groupe de partage.
 
-> **Tous :**  
-> Merci, Seigneur Jésus, pour le don de cette fraternité.  
->  
-> Continue d’agir à travers nos frères et sœurs  
-> pour nous encourager, nous relever  
-> et nous aider à grandir dans la sainteté.  
->  
-> Que ce parcours fasse de nous des hommes et des femmes libres,  
-> enracinés dans la prière,  
-> fidèles dans le service  
-> et capables de témoigner de ton Royaume.
+C'est une fraternité **engagée**.
 
-Je vous salue Marie.
+Une fraternité où l'on prie les uns pour les autres.
 
-Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+Une fraternité où l'on partage ses combats avec confiance.
+
+Une fraternité où l'on s'encourage à persévérer.
+
+Une fraternité où chacun choisit de marcher dans la lumière et d'aider son frère ou sa sœur à grandir dans la liberté des enfants de Dieu.
 
 ---
 
-## 2. Rapport de terrain
+# 🤝 Concrètement
 
-Chaque personne donne un **rapport bref** sur son expérience de la semaine écoulée.
+Chaque semaine, votre fraternité se retrouvera pour une rencontre d'environ une heure.
 
-Ce rapport couvre **les grands piliers** du parcours :
+Ces rencontres sont un temps privilégié pour :
 
-- **La prière silencieuse quotidienne**
-- **Les disciplines et ascèses**
-- **Le service**
-- **La fraternité et l’ancre**
-- **La fidélité au dimanche et au vendredi**
+- prier ensemble ;
+- partager les joies et les combats de la semaine ;
+- relire la fidélité aux trois piliers du parcours ;
+- s'encourager mutuellement ;
+- porter les intentions de chacun dans la prière.
 
-Concernant les ascèses, chacun peut partager :
-- les combats rencontrés  
-- les fidélités vécues  
-- les difficultés concrètes  
-- les fruits observés  
+En dehors de cette rencontre, chacun sera également accompagné par une personne de la fraternité : son **ancre**.
 
-Les difficultés importantes peuvent être portées ensemble dans la prière et le soutien fraternel.
+Chaque jour, prenez quelques minutes pour prendre de ses nouvelles :
 
-La fraternité prend aussi le temps de **remercier Dieu** pour les grâces reçues.
+- par message ;
+- par téléphone ;
+- ou en personne lorsque cela est possible.
 
 ---
 
-## 3. Les repères quotidiens
+# ⚓ L'ancre
 
-Le responsable de la fraternité choisit **un point concret à travailler** parmi les disciplines de la semaine.
+En montagne, une cordée progresse grâce à ses points d'ancrage.
 
-Il anime un temps d’échange autour de :
+Lorsque l'un vacille, les autres le soutiennent.
 
-- la manière dont chacun vit concrètement ce point  
-- les difficultés rencontrées  
-- les ajustements possibles  
-- les fruits spirituels observés  
+Il en est de même dans la vie spirituelle.
 
-Exemples :
-- fidélité à la prière silencieuse  
-- usage du téléphone et des écrans  
-- sobriété alimentaire  
-- équilibre dans les loisirs  
-- fidélité au sport ou au sommeil  
-- qualité du service rendu aux autres  
-- capacité à vivre un vrai repos chrétien  
+Votre ancre est cette personne qui prie pour vous, vous écoute, vous encourage et vous rappelle que le Christ est toujours à vos côtés.
+
+En retour, vous êtes appelé à devenir cette présence fidèle pour elle.
+
+Personne ne grandit seul.
+
+Dieu nous sauve en Église et nous fait avancer par nos frères et nos sœurs.
 
 ---
 
-## 4. Vivre le dimanche comme un jour du Seigneur
+# 📅 À vivre tout au long du parcours
 
-La fraternité prend un temps pour réfléchir à la manière de vivre le dimanche :
-- comme un jour de joie  
-- de repos  
-- de fraternité  
-- de prière  
-- et d’action de grâce.
+Votre engagement dans la fraternité se traduit concrètement par :
 
-Des disciplines peuvent être allégées avec sagesse afin de mieux vivre la joie du Jour du Seigneur.
+- participer fidèlement aux rencontres ;
+- prendre des nouvelles de son ancre chaque jour ;
+- prier les uns pour les autres ;
+- demander de l'aide lorsque le combat devient difficile ;
+- encourager avec vérité, humilité et bienveillance.
 
-Exemples :
-- musique  
-- desserts ou sucreries avec modération  
-- temps festifs vécus dans la charité et la simplicité  
-
-Le dimanche n’est pas un jour de relâchement spirituel, mais un jour de célébration du Royaume de Dieu.
+La fidélité dans ces petits gestes construit une véritable communion.
 
 ---
 
-## 5. Prière de clôture
+# 🌱 Une fraternité qui transforme
 
-La réunion se termine par la prière de **saint Michel Archange**, demandant la protection spirituelle :
+Au fil des semaines, vous découvrirez que la fraternité n'est pas seulement un soutien.
 
-- de la fraternité  
-- des personnes engagées dans le parcours des Rois de l’Été  
-- des familles  
-- des prêtres  
-- et de toute l’Église  
+Elle devient un véritable lieu de conversion.
 
-### Prière à saint Michel Archange
+Vous apprendrez peu à peu à :
 
-> Saint Michel Archange,  
-> défendez-nous dans le combat.  
->  
-> Soyez notre secours contre la malice  
-> et les embûches du démon.  
->  
-> Que Dieu exerce sur lui son empire,  
-> nous vous en supplions.  
->  
-> Et vous, Prince de la milice céleste,  
-> par la force divine,  
-> repoussez en enfer Satan  
-> et les autres esprits mauvais  
-> qui parcourent le monde  
-> pour la perte des âmes.  
->  
-> **Amen.**
+- vivre dans la vérité ;
+- sortir de l'isolement ;
+- porter les fardeaux les uns des autres ;
+- persévérer dans la prière ;
+- demeurer fidèles aux engagements du parcours ;
+- grandir ensemble dans la confiance, l'humilité et la charité.
+
+Dieu choisit souvent de passer par nos frères et nos sœurs pour nous relever, nous fortifier et nous conduire vers la sainteté.
+
+---
+
+# ✨ Un chemin qui continue
+
+Le Carême de saint Michel dure quarante-cinq jours.
+
+Mais la fraternité est appelée à porter du fruit bien au-delà de ce parcours.
+
+La sainteté ne se construit pas en solitaire.
+
+Elle grandit dans la fidélité, la persévérance, la correction fraternelle et la confiance en Dieu.
+
+Que cette fraternité devienne pour chacun un lieu où le Christ agit, relève, fortifie et conduit vers une plus grande liberté.
+
+**Sous la protection de saint Michel Archange, avançons ensemble avec confiance. Le Christ a déjà remporté la victoire.**

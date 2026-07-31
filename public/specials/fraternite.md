@@ -1,86 +1,106 @@
 # La Fraternité
 
-Cet aspect essentiel de la vie chrétienne est l’un des plus évidents… et pourtant souvent négligé aujourd’hui. Lorsque nous choisissons de faire le bien et que nous nous aidons à rester fidèles à ce choix, de grands fruits apparaissent. Des fruits pour chacun de nous, mais aussi pour toute notre communauté.
+Le combat spirituel ne se mène jamais seul.
 
-À l’inverse, lorsque nous nous isolons et que nous ne rendons de comptes à personne, nos vies se referment sur elles-mêmes et notre communauté en souffre.
+Dieu ne nous laisse pas avancer isolés. Il nous donne des frères et des sœurs pour nous soutenir, nous encourager et nous aider à demeurer fidèles.
 
-Dans ce parcours, vous vivrez la fraternité avec **4 à 6 personnes** de votre région, hommes et femmes engagés dans le parcours des Rois de l’Été.  
-Ce n’est pas une fraternité confortable du type « tout va bien ».  
-C’est une fraternité **vraie**.
+Pendant ce Carême de saint Michel, vous vivrez ce chemin au sein d'une **fraternité de 4 à 6 personnes**, composée d'hommes ou de femmes selon votre groupe.
 
-Une fraternité où l’on ose se dire les choses.  
-Une fraternité où l’on sort de sa zone de confort.  
-Une fraternité où chacun choisit de vivre dans la lumière.  
-Une fraternité où la responsabilité mutuelle fait grandir dans la fidélité et la liberté intérieure.
+Ce n'est pas une fraternité où chacun fait simplement part de ses nouvelles.
 
----
+C'est une fraternité **engagée**.
 
-## 🤝 Concrètement
+Une fraternité où l'on prie les uns pour les autres.
 
-Chaque semaine, vous vous retrouverez pour une **réunion de fraternité**.  
-Ces rencontres durent environ une heure (ou peuvent être plus courtes grâce au guide proposé).
+Une fraternité où l'on partage ses combats avec confiance.
 
-Ce sera un temps pour :
-- prier ensemble  
-- partager les joies et les combats du parcours  
-- s’encourager  
-- grandir ensemble dans la foi  
+Une fraternité où l'on s'encourage à rester fidèle.
 
-En parallèle, vous serez en lien avec une personne de votre fraternité : votre **ancre**.
-
-Chaque jour, vous prendrez contact :
-- par message  
-- par appel  
-- ou en personne  
-
-Comme en montagne ou en escalade, une ancre sert à tenir bon quand l’autre vacille.  
-Vous êtes appelés à être cette présence fidèle et solide pour l’autre.
-
-La vie chrétienne n’est pas un chemin solitaire.  
-Vous avez besoin des autres… et les autres ont besoin de vous.
+Une fraternité où chacun aide l'autre à grandir dans la liberté et la sainteté.
 
 ---
 
-## 📅 À vivre concrètement
+# 🤝 Concrètement
 
-- Participer aux rencontres hebdomadaires  
-- Prendre des nouvelles de son ancre chaque jour  
-- Prier les uns pour les autres  
-- Oser demander de l’aide et encourager avec vérité  
+Chaque semaine, votre fraternité se retrouvera pour une rencontre d'environ une heure.
 
----
+Ces rencontres sont un temps privilégié pour :
 
-## 🌱 Une fraternité qui fait grandir
+- prier ensemble ;
+- partager les joies et les combats de la semaine ;
+- relire la fidélité aux trois piliers du parcours ;
+- s'encourager mutuellement ;
+- confier les intentions de chacun au Seigneur.
 
-Pendant ce parcours, vous apprendrez peu à peu à :
-- vivre dans la vérité  
-- sortir de l’isolement  
-- porter les combats les uns des autres  
-- grandir dans la fidélité quotidienne  
-- construire des relations solides et enracinées  
+En dehors de cette rencontre, chacun sera également accompagné par une personne de la fraternité : son **ancre**.
 
-Les grandes transformations se construisent rarement seuls.
+Chaque jour, prenez quelques minutes pour prendre de ses nouvelles :
 
-Dieu passe souvent par des frères et des sœurs pour nous relever, nous encourager et nous aider à avancer.
+- par message ;
+- par téléphone ;
+- ou en personne lorsque cela est possible.
 
 ---
 
-## 👑 Une aventure qui continue
+# ⚓ L'ancre
 
-Les recherches sur la neuroplasticité nous montrent qu’il est possible de transformer durablement sa vie en changeant ses habitudes sur la durée.
+En montagne, une cordée avance grâce à ses points d'ancrage.
 
-Mais ce parcours n’est pas une ligne d’arrivée.  
-C’est une **ligne de départ**.
+Si l'un vacille, les autres le retiennent.
 
-Pendant ces 53 jours, vous êtes invités à approfondir ce qui a commencé dans votre cœur :
-- apprendre à vivre dans une vraie liberté  
-- devenir plus disponible à Dieu  
-- grandir dans le service et la fidélité  
-- apprendre à gouverner votre vie avec sagesse  
+Il en est de même dans la vie spirituelle.
 
-La sainteté se construit dans le temps, avec persévérance, soutien mutuel et confiance en Dieu.
+Votre ancre est cette personne qui prie pour vous, vous encourage, vous écoute et vous aide à rester fidèle lorsque le combat devient plus difficile.
 
-Le chemin vers la vie à laquelle vous êtes appelés ne s’arrête pas ici.  
-Il ne fait que commencer.
+Et vous êtes appelé à devenir cette présence fidèle pour elle.
 
-**Bienvenue dans la Fraternité des Rois de l’Été.**
+Personne ne grandit seul.
+
+---
+
+# 📅 À vivre tout au long du parcours
+
+Votre engagement dans la fraternité se traduit concrètement par :
+
+- participer fidèlement aux rencontres ;
+- prendre des nouvelles de son ancre chaque jour ;
+- prier les uns pour les autres ;
+- demander de l'aide lorsque le combat devient difficile ;
+- encourager avec vérité, humilité et bienveillance.
+
+La fidélité dans ces petits gestes construit une véritable communion.
+
+---
+
+# 🌱 Une fraternité qui transforme
+
+Au fil des semaines, vous découvrirez que la fraternité n'est pas seulement un soutien.
+
+Elle devient un véritable lieu de croissance.
+
+Vous apprendrez peu à peu à :
+
+- vivre dans la vérité ;
+- sortir de l'isolement ;
+- porter les fardeaux les uns des autres ;
+- persévérer dans la prière ;
+- demeurer fidèles aux engagements du parcours ;
+- grandir ensemble dans la confiance et la charité.
+
+Dieu choisit souvent de passer par nos frères et nos sœurs pour nous relever et nous fortifier.
+
+---
+
+# ✨ Un chemin qui continue
+
+Le Carême de saint Michel dure quarante-cinq jours.
+
+Mais la fraternité est appelée à durer bien au-delà.
+
+La sainteté ne se construit pas en solitaire.
+
+Elle grandit dans la fidélité, la persévérance, la correction fraternelle et la confiance en Dieu.
+
+Que cette fraternité devienne pour chacun un lieu où le Christ agit, relève, fortifie et conduit vers une plus grande liberté.
+
+**Bienvenue dans cette aventure fraternelle, sous la protection de saint Michel Archange.**

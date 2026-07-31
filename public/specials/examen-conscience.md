@@ -1,104 +1,100 @@
 # Examen de conscience
 
-## Comment faire un examen de conscience ?
+## Comment vivre son examen de conscience ?
 
-Un examen de conscience est une manière de relire sa journée,  
-de reconnaître où nous avons répondu à la grâce de Dieu  
-et où nous avons choisi de faire autrement.
+L'examen de conscience est un rendez-vous quotidien avec le Seigneur.
 
-> Saint Ignace de Loyola pensait que l’examen de conscience était un don qui venait directement de Dieu,  
-> et que Dieu voulait qu’il soit partagé le plus largement possible.  
->  
-> L’une des rares règles de prière qu’Ignace a établies pour l’Ordre des Jésuites  
-> était l’exigence que les Jésuites pratiquent l’examen deux fois par jour,  
-> à midi et à la fin de la journée.  
->  
-> C’est une habitude que les Jésuites, et beaucoup d’autres chrétiens,  
-> pratiquent encore aujourd’hui.
+À la fin de chaque journée, il nous invite à relire notre vie à la lumière de l'Esprit Saint, à reconnaître les grâces reçues, à discerner les combats vécus et à accueillir la miséricorde de Dieu.
 
-Pendant **Exodus**, l’examen de conscience est pratiqué **chaque jour**,  
-à la fin de la journée.
+> Saint Ignace de Loyola considérait l'examen de conscience comme un véritable don de Dieu.
+>
+> Il demandait aux Jésuites de le pratiquer chaque jour, à midi et le soir, convaincu que cette habitude permettait de grandir dans la liberté intérieure et dans l'amour de Dieu.
+>
+> Aujourd'hui encore, de nombreux chrétiens vivent fidèlement cette démarche spirituelle.
 
-Voici une forme **simple et accessible** pour le vivre fidèlement.
+Pendant le **Carême de saint Michel Archange**, nous vous invitons à pratiquer cet examen **chaque soir**.
+
+Quelques minutes suffisent pour laisser le Seigneur éclairer votre cœur et vous préparer à vivre le lendemain avec davantage de fidélité.
 
 ---
 
-## Les cinq étapes de l’examen
+# Les cinq étapes de l'examen
 
-### 1. Se rappeler la présence de Dieu
+## 1. Se placer en présence de Dieu
 
-Rappelez-vous que Dieu est présent avec vous.  
-Il est là dans les épreuves comme dans les joies de votre journée.
+Commencez par prendre conscience que Dieu est là.
 
-Prenez un instant pour vous rendre intérieurement disponible  
-et vous placer consciemment en sa présence.
+Il vous attend avec amour, sans jugement ni reproche.
 
----
-
-### 2. Examiner les grâces du jour
-
-Repassez lentement votre journée.  
-Cherchez à reconnaître les nombreuses **bénédictions** reçues du Seigneur.
-
-Par exemple :
-
-- Avez-vous vu le soleil aujourd’hui ?  
-  C’est une bénédiction.
-- Avez-vous respiré aujourd’hui ?  
-  C’est une bénédiction.
-- Avez-vous reçu un sourire, une aide, une consolation ?  
-  C’est une bénédiction.
-
-Remerciez Dieu pour tout ce qu’il vous a donné,  
-même — et surtout — dans les petites choses.
+Remettez-lui simplement votre journée et demandez à l'Esprit Saint d'éclairer votre regard.
 
 ---
 
-### 3. Reconnaître ses péchés et ses manquements
+## 2. Reconnaître les grâces reçues
 
-Identifiez les moments précis  
-où vous n’avez pas accueilli la grâce que le Seigneur vous offrait.
+Relisez lentement votre journée.
 
-Soyez honnête et précis :
+Cherchez les signes de la présence de Dieu :
 
-- les lieux,
-- les circonstances,
-- les paroles,
-- les pensées,
-- les actes ou les omissions.
+- une joie inattendue ;
+- une rencontre ;
+- une parole reçue ;
+- une prière vécue ;
+- une difficulté traversée avec paix ;
+- un service rendu ou reçu.
 
-La minutie est importante ici,  
-non pour vous accuser,  
-mais pour vous ouvrir davantage à la miséricorde.
+Remerciez le Seigneur pour chacune de ces grâces, même les plus discrètes.
 
----
-
-### 4. Prendre une résolution et invoquer le Seigneur
-
-Prenez une résolution concrète pour le lendemain.
-
-Décidez, avec l’aide de Dieu,  
-de ne pas retomber dans les mêmes péchés ou manquements.
-
-Puis demandez au Seigneur :
-
-- la **contrition parfaite**,
-- les **grâces nécessaires** pour vivre pleinement pour lui,
-- une aide particulière dans les domaines où vous êtes le plus faible.
+La gratitude ouvre toujours davantage notre cœur à Dieu.
 
 ---
 
-### 5. Se remplir d’espérance et de joie
+## 3. Relire le combat de la journée
 
-Rappelez-vous que le Seigneur se réjouit de votre engagement :
+Le Carême de saint Michel est un chemin de combat spirituel.
 
-- pour la liberté,
-- pour votre famille,
-- pour la conversion permanente,
-- pour lui.
+Avec simplicité, demandez-vous :
 
-> **Dieu désire votre sainteté encore plus que vous.**
+- Où ai-je été fidèle aujourd'hui ?
+- Où ai-je résisté à la grâce de Dieu ?
+- Quelles tentations ai-je rencontrées ?
+- Ai-je vécu dans la charité, la vérité et l'humilité ?
+- Ai-je été fidèle à ma prière, à mes ascèses et à ma fraternité ?
 
-Reposez-vous paisiblement,  
-en sachant que Dieu est avec vous  
-et qu’il vous conduit pas à pas vers la liberté.
+Ne cherchez pas à vous condamner.
+
+Accueillez humblement la vérité afin de recevoir la miséricorde du Seigneur.
+
+---
+
+## 4. Demander pardon et prendre une résolution
+
+Présentez au Seigneur vos pauvretés.
+
+Demandez-lui :
+
+- la grâce d'un cœur vraiment repentant ;
+- la force de vous relever ;
+- l'aide nécessaire pour le combat de demain.
+
+Puis choisissez une résolution simple et concrète.
+
+Une seule suffit lorsqu'elle est vécue avec fidélité.
+
+---
+
+## 5. Repartir dans l'espérance
+
+Le Christ est déjà victorieux.
+
+Saint Michel combat avec tous ceux qui choisissent de marcher dans la lumière.
+
+Même si vous êtes tombé aujourd'hui, ne perdez jamais courage.
+
+Chaque acte de confiance, chaque conversion et chaque recommencement permettent à la grâce de Dieu de transformer peu à peu votre cœur.
+
+> **Dieu ne vous demande pas d'être parfait aujourd'hui. Il vous invite simplement à Lui rester fidèle, un jour après l'autre.**
+
+Confiez votre nuit au Seigneur, à la Vierge Marie, à votre ange gardien et à saint Michel Archange.
+
+Puis reposez-vous dans la paix, certain que Dieu poursuit son œuvre en vous.

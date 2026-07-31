@@ -1,120 +1,94 @@
-# Parcours Les Rois de l’Été  
-## 53 jours pour grandir en liberté et en sainteté
+# Le Carême de saint Michel Archange  
+## 45 jours pour entrer dans le combat spirituel
 
-Ce parcours est une invitation à vivre l’été autrement :
-un temps de repos, mais aussi un temps de croissance intérieure.
+Chaque année, du **15 août au 29 septembre**, l’Église nous invite à vivre un temps particulier : le **Carême de saint Michel Archange**.
 
-Pendant **53 jours**, vous êtes appelés à entrer dans une royauté spirituelle :
-une vie plus libre, plus fidèle, plus enracinée en Dieu.
+Pendant **45 jours**, nous avançons sous la protection du Prince de la Milice céleste afin de grandir dans la vigilance, la liberté intérieure et la sainteté.
 
-Ce chemin n’est pas une performance.  
-C’est une transformation.
+Ce parcours n’est pas réservé à quelques spécialistes de la vie spirituelle.
+
+Il est proposé à tous ceux qui désirent laisser le Christ régner davantage dans leur cœur.
 
 ---
 
-## 🌿 Une royauté intérieure à apprendre
+## ⚔️ Un combat invisible… mais bien réel
 
-Par sa Résurrection, Jésus nous fait passer :
-- de la peur à la confiance  
-- de l’esclavage intérieur à la liberté  
-- d’une vie dispersée à une vie ordonnée par Dieu  
+La Parole de Dieu nous révèle qu’au-delà de ce que voient nos yeux se déroule un véritable combat spirituel.
 
-À travers les figures de Saül et David, nous découvrons deux manières de régner :
-- l’une marquée par l’orgueil et la peur  
-- l’autre façonnée par l’humilité, la fidélité et la conversion  
+Le Livre de l’Apocalypse nous montre saint Michel combattant le Dragon, tandis que saint Paul nous rappelle que notre lutte n’est pas contre les hommes, mais contre les forces du mal.
 
-Mais cette royauté intérieure ne s’improvise pas.
+La bonne nouvelle est que cette victoire est déjà acquise par le Christ.
 
-Elle s’apprend, se choisit, et se construit jour après jour.
+Nous ne combattons pas pour gagner.
+
+Nous combattons parce que le Christ a déjà vaincu.
 
 ---
 
 ## 🔥 Trois piliers pour avancer
 
-Tout au long de ces 53 jours, vous allez vous appuyer sur trois piliers essentiels :
+Pendant ces 45 jours, vous vous appuierez sur trois piliers essentiels.
 
 ### 🙏 La prière
 
-Chaque jour, vous prenez un temps pour vous tourner vers Dieu.
+Chaque jour, vous prendrez un temps de silence pour écouter Dieu.
 
-À travers :
-- la lecture des Livres de Samuel  
-- le silence  
-- la méditation  
-- la prière personnelle  
-
-Vous apprenez à écouter Dieu et à vous laisser guider.
-
-Même durant l’été, cette fidélité quotidienne permet de garder un cœur vigilant et disponible à l’Esprit Saint.
+À travers la méditation de la Parole, la prière personnelle et l’invocation de saint Michel, vous apprendrez à reconnaître la voix du Seigneur au milieu du bruit du monde.
 
 ---
 
 ### ⚖️ Les ascèses
 
-Nous ne pouvons pas dire « oui » à Dieu tant que nous n’avons
-pas appris à renoncer à ce qui nous éloigne de Lui.
+L’ascèse est un entraînement du cœur.
 
-Les ascèses vous aident à :
-- retrouver une vraie liberté intérieure  
-- grandir dans la maîtrise de soi  
-- ordonner vos désirs  
-- vivre plus simplement et plus consciemment  
+Elle nous aide à retrouver la liberté face aux habitudes qui nous éloignent de Dieu.
 
-Elles ne sont pas une contrainte, mais un chemin vers une plus grande union avec Dieu.
+En renonçant volontairement à certains conforts, nous apprenons à aimer davantage Celui qui est notre véritable trésor.
 
 ---
 
 ### 🤝 La fraternité
 
-Vous ne marchez pas seul.
+Le combat spirituel ne se vit jamais seul.
 
-Vous avancez avec une fraternité :
-**4 à 6 personnes**, hommes et femmes.
+Tout au long du parcours, vous avancerez avec une fraternité de 4 à 6 personnes.
 
-Une fraternité pour :
-- se soutenir  
-- s’encourager  
-- grandir ensemble  
-- rester fidèle  
-- apprendre la vérité et la miséricorde  
-
-La vie chrétienne ne se vit jamais seul.
+Vous vous soutiendrez, vous prierez les uns pour les autres et vous vous encouragerez à demeurer fidèles.
 
 ---
 
-## 🌱 Une dynamique de croissance
+## 🌿 Une école de vigilance
 
-Pendant ces 53 jours :
+Le Carême de saint Michel est une école de fidélité.
 
-- vous construisez de nouvelles habitudes  
-- vous apprenez à gouverner votre vie avec sagesse  
-- vous approfondissez votre relation avec Dieu  
-- vous découvrez ce qu’est une vraie liberté chrétienne  
+Jour après jour, de petites décisions deviennent de grandes victoires :
 
-Ce temps n’est pas une fin.
+- une prière fidèle ;
+- un renoncement offert ;
+- un pardon donné ;
+- une parole de vérité ;
+- un acte de charité.
 
-C’est le début d’une vie plus enracinée dans le Christ.
-
----
-
-## 👑 À l’école des rois
-
-À travers les récits de Saül, David et Salomon, ainsi que l’exemple de grands rois chrétiens, vous découvrirez que la sainteté est possible au cœur même des responsabilités, des combats et des fragilités humaines.
-
-Dieu ne cherche pas des hommes et des femmes parfaits.
-
-Il cherche des cœurs disponibles.
+Dieu façonne ainsi notre cœur pour le rendre toujours plus disponible à son Esprit.
 
 ---
 
-## ✨ Conclusion
+## 👑 Une victoire qui appartient déjà au Christ
 
-Ce parcours est une invitation à :
-- laisser Dieu régner davantage dans votre cœur  
-- grandir dans la fidélité  
-- apprendre à vivre dans la liberté des enfants de Dieu  
-- devenir des hommes et des femmes selon le cœur du Christ-Roi  
+Saint Michel nous rappelle que nous ne sommes jamais seuls.
 
-Un pas après l’autre.
+Le Christ ressuscité a déjà remporté la victoire sur le mal.
 
-**Bienvenue dans cette aventure spirituelle.**
+Notre mission est simplement de demeurer fidèles, de nous relever après chaque chute et de marcher avec confiance jusqu’à la fête des saints Archanges.
+
+---
+
+## ✨ Bienvenue dans cette aventure spirituelle
+
+Ces quarante-cinq jours ne sont pas une parenthèse.
+
+Ils sont une invitation à laisser Dieu transformer durablement votre vie.
+
+Sous la protection de saint Michel Archange, entrez avec confiance dans ce chemin de prière, d’ascèse et de fraternité.
+
+**Le Seigneur combattra pour vous ; gardez votre paix.**

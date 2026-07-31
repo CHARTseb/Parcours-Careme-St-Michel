@@ -1,152 +1,125 @@
-# Les Disciplines des Rois de l’Été
+# Les Ascèses
 
-L’ascèse peut être simplement définie comme des actes d’abnégation.  
-Tous les chrétiens sont appelés à vivre une forme d’ascèse, non pas pour se priver, mais pour grandir en liberté.
+L'ascèse est un entraînement du cœur.
 
-Elle nous aide à nous détacher de ce qui nous encombre, pour nous attacher davantage à Dieu.
+Tous les chrétiens sont appelés à vivre une forme d'ascèse, non pour rechercher la difficulté, mais pour apprendre à aimer Dieu plus librement.
 
-Dans ce parcours, hommes et femmes sont invités à vivre ces disciplines comme :
-- une **offrande**  
-- un **chemin de liberté intérieure**  
+Elle nous aide à renoncer à ce qui nous éloigne du Seigneur afin de devenir plus disponibles à son action.
 
-L’ascèse ne prend sens que si elle est vécue avec la prière et la fraternité.
+Pendant ce Carême de saint Michel, chacun est invité à vivre ces disciplines comme :
 
----
+- une **offrande d'amour** ;
+- un **chemin de liberté intérieure** ;
+- un **entraînement pour le combat spirituel**.
 
-## 🌿 Une royauté intérieure à vivre
-
-Par sa Résurrection, Jésus nous fait passer de la mort à la vie.  
-Par notre baptême, nous partageons sa royauté et sommes appelés à vivre autrement, dans une liberté nouvelle.
-
-À travers les figures de Saül, David et Salomon, nous découvrirons qu’un véritable roi selon Dieu est un homme ou une femme :
-- humble  
-- fidèle  
-- attentif à la voix de Dieu  
-
-Par notre communion avec le Christ-Roi, nos vies peuvent être transformées :
-- plus libres  
-- plus paisibles  
-- plus tournées vers les autres  
-
-Nous sommes envoyés en mission pour témoigner du Royaume de Dieu dans notre vie quotidienne.
+L'ascèse n'a de sens que si elle est vécue dans la prière, la charité et la fraternité.
 
 ---
 
-## 📖 Un chemin pendant l’été
+# ⚔️ Les armes du chrétien
 
-Durant ce temps, nous allons :
+Saint Paul nous invite à revêtir les armes de Dieu.
 
-- Méditer les Livres de Samuel
-- Approfondir notre relation avec Dieu
-- Discerner notre mission personnelle
-- Mettre en place des habitudes concrètes de vie chrétienne
+Le combat spirituel ne se gagne ni par la force ni par la peur, mais par une fidélité quotidienne aux petites choses.
 
-Ce chemin n’est pas une fin…  
-C’est un commencement.
+Chaque renoncement librement offert devient une manière de laisser davantage de place au Christ.
 
 ---
 
-## ⚖️ Les disciplines concrètes
+# 🌿 Une liberté qui se construit
 
-### 🍽️ Consommation
+Par son baptême, chaque chrétien est appelé à vivre dans la liberté des enfants de Dieu.
 
-- Une consommation d’alcool ajustée à une vie chrétienne libre et consciente  
-- Une consommation de desserts et sucreries modérée  
-- Éviter de manger entre les repas  
-- Une utilisation des écrans réfléchie et mesurée  
-- Une pratique des jeux vidéo adaptée  
-- Jeûner les vendredis (abstinence de viande)
+Pourtant, nos habitudes, nos attachements ou certaines dépendances peuvent parfois nous empêcher d'aimer pleinement.
 
----
+Les ascèses ne cherchent pas à nous rendre plus performants.
 
-### 🏃‍♂️ Vie quotidienne
+Elles nous rendent plus disponibles :
 
-- Écouter une musique qui élève l’âme  
-- Adapter l’usage des réseaux sociaux et du téléphone  
-- Avoir une activité physique régulière (idéalement 3 fois par semaine)  
-- Dormir au moins 7 heures par nuit  
-
-👉 **Selon le discernement personnel**  
-- Possibilité de garder de courtes douches froides  
+- pour Dieu ;
+- pour notre famille ;
+- pour notre prochain ;
+- pour la mission que le Seigneur nous confie.
 
 ---
 
-## 🕊️ Des piliers pour grandir
+# ⚖️ Les disciplines proposées
 
-### 🙏 20 minutes de prière quotidienne
+Le parcours vous invite à choisir, avec discernement, quelques disciplines concrètes.
 
-Prendre un temps de silence avec Dieu chaque jour.  
-C’est là que le Seigneur forme le cœur du roi chrétien.
+### 🍽️ Sobriété
 
----
-
-### 🎯 Vivre sa mission
-
-Chacun est appelé à vivre sa mission :
-- dans sa vie quotidienne  
-- dans sa famille  
-- dans son travail  
-
-Dieu agit à travers vous.
+- Jeûner le mercredi et/ou le vendredi selon ses possibilités.
+- Vivre l'abstinence de viande le vendredi.
+- Réduire les sucreries, le grignotage ou certaines consommations superflues.
+- Faire preuve de modération dans la consommation d'alcool.
 
 ---
 
-### 💧 Vivre de son baptême
+### 📱 Liberté numérique
 
-Se rappeler :
-- que nous sommes enfants de Dieu  
-- que nous appartenons au Christ  
-- que nous sommes appelés à vivre pour Lui  
-
----
-
-### 🔁 Construire une habitude
-
-Choisir **une habitude concrète** pendant ce temps :
-- pour grandir  
-- pour rester libre  
-- pour avancer  
+- Limiter les réseaux sociaux.
+- Réduire le temps passé devant les écrans.
+- Désactiver les notifications inutiles.
+- Choisir des contenus qui élèvent le cœur vers Dieu.
 
 ---
 
-### 🤝 Vivre la fraternité
+### 🏃 Corps et volonté
 
-- Se retrouver régulièrement  
-- Partager des moments de joie  
-- Se soutenir  
-
-La joie du Royaume de Dieu se vit ensemble.
-
----
-
-### ✝️ Le vendredi
-
-Un jour pour :
-- se rappeler la Croix  
-- offrir un sacrifice  
-- grandir dans l’amour  
+- Se lever dès la première sonnerie.
+- Veiller à un sommeil suffisant.
+- Pratiquer une activité physique régulière.
+- Choisir, si on le souhaite, une mortification adaptée (comme une douche froide ou un autre renoncement librement offert).
 
 ---
 
-### 🌞 Le dimanche
+### ❤️ La charité
 
-Le jour du Seigneur :
-- repos  
-- joie  
-- célébration  
+La plus belle ascèse est toujours celle qui nous conduit à aimer davantage.
 
-Un jour pour vivre déjà la joie du Royaume de Dieu.
+Chaque jour, choisissez un acte concret :
+
+- rendre service ;
+- encourager quelqu'un ;
+- pardonner ;
+- donner de son temps ;
+- poser un geste de douceur ou de générosité.
 
 ---
 
-## ✨ Conclusion
+# 🙏 Les trois piliers
 
-Les Rois de l’Été ne sont pas seulement un parcours.  
-C’est un **chemin de transformation intérieure**.
+Les ascèses ne peuvent porter du fruit que si elles s'appuient sur les trois piliers du parcours :
 
-Ce temps nous est donné pour :
-- laisser Dieu régner davantage dans notre cœur  
-- grandir dans la fidélité  
-- fortifier notre vie intérieure  
+- **la prière**, qui nous unit au Christ ;
+- **les ascèses**, qui fortifient notre liberté ;
+- **la fraternité**, qui nous aide à rester fidèles.
 
-**Bienvenue dans cette aventure spirituelle.**
+Ces trois dimensions se soutiennent mutuellement.
+
+---
+
+# 🌞 Le rythme de la semaine
+
+Le parcours nous invite également à sanctifier le temps.
+
+**Le vendredi** devient un jour privilégié pour le jeûne, l'abstinence et la contemplation de la Croix.
+
+**Le dimanche** demeure le Jour du Seigneur, une petite Pâque où nous célébrons la victoire du Christ dans la joie, le repos et l'Eucharistie.
+
+---
+
+# ✨ Un chemin de liberté
+
+L'ascèse n'est jamais une punition.
+
+Elle est un apprentissage de la liberté.
+
+Chaque renoncement, chaque acte de fidélité, chaque victoire sur nos habitudes ouvre davantage notre cœur à la grâce de Dieu.
+
+Sous la protection de saint Michel Archange, avançons avec confiance.
+
+Le Christ a déjà remporté la victoire.
+
+À nous de demeurer fidèles, un jour après l'autre.
