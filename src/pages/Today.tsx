@@ -1,134 +1,55 @@
 import { useMemo } from "react";
 import { useDays } from "../data/useDays";
 import { Card } from "../components/Card";
-import type { DayEntry } from "../types";
 import ReactMarkdown from "react-markdown";
-import { formatDateFR } from "../utils/date";
 import { cleanMd, mdComponents } from "../utils/markdown";
-import { hasNote } from "../utils/notes";
+import DayNoteEditor from "../components/DayNoteEditor";
 
-function toIsoDate(d: Date) {
-  const yyyy = d.getFullYear();
-  const mm = String(d.getMonth() + 1).padStart(2, "0");
-  const dd = String(d.getDate()).padStart(2, "0");
-  return `${yyyy}-${mm}-${dd}`;
-}
-
-export default function Today({
-  onOpenDetail,
+export default function DayDetail({
+  id,
+  onBack,
 }: {
-  onOpenDetail: (id: number) => void;
+  id: number;
+  onBack: () => void;
 }) {
   const { days, error } = useDays();
-  const todayIso = useMemo(() => toIsoDate(new Date()), []);
 
-  const sortedByDate = useMemo(() => {
-    return days.slice().sort((a, b) => {
-      const da = new Date(String(a.date).trim()).getTime();
-      const db = new Date(String(b.date).trim()).getTime();
-      return da - db;
-    });
-  }, [days]);
-
-  const todayEntry: DayEntry | undefined = useMemo(
-    () => days.find((d) => String(d.date).trim() === todayIso),
-    [days, todayIso]
+  const day = useMemo(
+    () => days.find((d) => d.id === id),
+    [days, id]
   );
-
-  const firstEntry = sortedByDate[0];
 
   if (error) return <div style={{ padding: 20 }}>Erreur: {error}</div>;
   if (!days.length) return <div style={{ padding: 20 }}>Chargement…</div>;
-
-  if (!todayEntry) {
-    return (
-      <div style={{ maxWidth: 820, margin: "0 auto", padding: 16 }}>
-        <h1 style={{ marginTop: 0 }}>Aujourd’hui</h1>
-
-        <Card title="Pas de contenu pour aujourd’hui">
-          <div style={{ opacity: 0.85, lineHeight: 1.35 }}>
-            Aucune entrée n’est prévue pour la date du jour (
-            {formatDateFR(todayIso)}).
-          </div>
-
-          {firstEntry ? (
-            <div style={{ marginTop: 10, opacity: 0.85, lineHeight: 1.35 }}>
-              Le parcours commence le {formatDateFR(firstEntry.date)}.
-            </div>
-          ) : null}
-        </Card>
-      </div>
-    );
-  }
-
-  const noteExists = hasNote(String(todayEntry.id));
+  if (!day) return <div style={{ padding: 20 }}>Jour introuvable.</div>;
 
   return (
     <div style={{ maxWidth: 820, margin: "0 auto", padding: 16 }}>
-      <h1 style={{ marginTop: 0 }}>Aujourd’hui</h1>
+      <button
+        onClick={onBack}
+        style={{
+          border: "1px solid rgba(0,0,0,.15)",
+          background: "white",
+          borderRadius: 12,
+          padding: "8px 12px",
+          cursor: "pointer",
+          marginBottom: 12,
+          fontWeight: 600,
+        }}
+      >
+        ← Retour
+      </button>
 
-      <Card title={todayEntry.titre}>
-        {/* Date + boutons */}
-        <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "space-between",
-            gap: 12,
-            marginBottom: 10,
-            opacity: 0.9,
-          }}
-        >
-          <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
-            <b>{formatDateFR(todayEntry.date)}</b>
-
-            {noteExists ? (
-              <span style={{ fontSize: 12, opacity: 0.75 }}>
-                • Note enregistrée
-              </span>
-            ) : null}
-          </div>
-
-          <div style={{ display: "flex", gap: 8 }}>
-            <button
-              onClick={() => onOpenDetail(todayEntry.id)}
-              style={{
-                border: "1px solid rgba(0,0,0,.15)",
-                background: "white",
-                borderRadius: 12,
-                padding: "8px 12px",
-                cursor: "pointer",
-                fontWeight: 600,
-              }}
-            >
-              Note ✍️
-            </button>
-
-            <button
-              onClick={() => onOpenDetail(todayEntry.id)}
-              style={{
-                border: "1px solid rgba(0,0,0,.15)",
-                background: "white",
-                borderRadius: 12,
-                padding: "8px 12px",
-                cursor: "pointer",
-                fontWeight: 600,
-              }}
-            >
-              Détail →
-            </button>
-          </div>
-        </div>
-
+      <Card title={day.titre}>
         {/* Référence biblique */}
-        {todayEntry.reference_biblique ? (
+        {day.reference_biblique ? (
           <div style={{ opacity: 0.9, marginBottom: 10 }}>
-            <b>{todayEntry.reference_biblique}</b>
+            <b>{day.reference_biblique}</b>
           </div>
         ) : null}
 
         {/* Texte biblique */}
-        {todayEntry.texte_biblique ? (
+        {day.texte_biblique ? (
           <div
             className="bibleText"
             style={{
@@ -137,38 +58,51 @@ export default function Today({
               opacity: 0.95,
             }}
           >
-            {todayEntry.texte_biblique}
+            {day.texte_biblique}
           </div>
         ) : null}
 
-        {/* Réflexion */}
-        {todayEntry.reflexion ? (
+        {/* Consignes - données provenant du champ paroisse */}
+        {day.paroisse ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Méditation</h3>
+            <h3 style={{ margin: "10px 0 4px" }}>Consignes</h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
-                {cleanMd(todayEntry.reflexion)}
+                {cleanMd(day.paroisse)}
               </ReactMarkdown>
             </div>
           </>
         ) : null}
 
-        {/* Résolution */}
-        {todayEntry.resolution ? (
+        {/* Méditation */}
+        {day.reflexion ? (
+          <>
+            <h3 style={{ margin: "10px 0 4px" }}>Méditation</h3>
+
+            <div className="md bodyText">
+              <ReactMarkdown components={mdComponents}>
+                {cleanMd(day.reflexion)}
+              </ReactMarkdown>
+            </div>
+          </>
+        ) : null}
+
+        {/* Conversion */}
+        {day.resolution ? (
           <>
             <h3 style={{ margin: "10px 0 4px" }}>Conversion</h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
-                {cleanMd(todayEntry.resolution)}
+                {cleanMd(day.resolution)}
               </ReactMarkdown>
             </div>
           </>
         ) : null}
 
         {/* Prière */}
-        {todayEntry.priere ? (
+        {day.priere ? (
           <>
             <h3 style={{ margin: "10px 0 4px" }}>Prière</h3>
 
@@ -181,26 +115,14 @@ export default function Today({
               }}
             >
               <ReactMarkdown components={mdComponents}>
-                {cleanMd(todayEntry.priere)}
+                {cleanMd(day.priere)}
               </ReactMarkdown>
             </div>
           </>
         ) : null}
 
-        {/* Paroisse */}
-        {todayEntry.paroisse ? (
-          <>
-            <h3 style={{ margin: "10px 0 4px" }}>
-              Proposition en paroisse
-            </h3>
-
-            <div className="md bodyText">
-              <ReactMarkdown components={mdComponents}>
-                {cleanMd(todayEntry.paroisse)}
-              </ReactMarkdown>
-            </div>
-          </>
-        ) : null}
+        {/* Note personnelle */}
+        <DayNoteEditor dayId={String(day.id)} />
       </Card>
     </div>
   );
