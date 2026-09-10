@@ -3,6 +3,7 @@ import { useDays } from "../data/useDays";
 import { Card } from "../components/Card";
 import ReactMarkdown from "react-markdown";
 import { cleanMd, mdComponents } from "../utils/markdown";
+import DayNoteEditor from "../components/DayNoteEditor";
 
 export default function Today({
   onOpenDetail,
@@ -16,18 +17,17 @@ export default function Today({
 
     const now = new Date();
 
-    // Date locale au format YYYY-MM-DD
     const year = now.getFullYear();
     const month = String(now.getMonth() + 1).padStart(2, "0");
     const day = String(now.getDate()).padStart(2, "0");
 
-    const todayKey = `${year}-${month}-${day}`;
+    const todayDate = `${year}-${month}-${day}`;
 
-    return days.find((d) => d.date === todayKey) ?? null;
+    return days.find((d) => d.date === todayDate) ?? null;
   }, [days]);
 
   if (error) {
-    return <div style={{ padding: 20 }}>Erreur: {error}</div>;
+    return <div style={{ padding: 20 }}>Erreur : {error}</div>;
   }
 
   if (!days.length) {
@@ -36,7 +36,12 @@ export default function Today({
 
   if (!today) {
     return (
-      <div style={{ maxWidth: 820, margin: "0 auto" }}>
+      <div
+        style={{
+          maxWidth: 820,
+          margin: "0 auto",
+        }}
+      >
         <Card title="Aujourd’hui">
           <p>Aucun jour du parcours n’est prévu aujourd’hui.</p>
         </Card>
@@ -45,7 +50,12 @@ export default function Today({
   }
 
   return (
-    <div style={{ maxWidth: 820, margin: "0 auto" }}>
+    <div
+      style={{
+        maxWidth: 820,
+        margin: "0 auto",
+      }}
+    >
       <Card title={today.titre}>
         {/* Date */}
         {today.date ? (
@@ -54,20 +64,29 @@ export default function Today({
               opacity: 0.7,
               marginBottom: 10,
               fontWeight: 600,
+              textTransform: "capitalize",
             }}
           >
-            {new Date(`${today.date}T12:00:00`).toLocaleDateString("fr-FR", {
-              weekday: "long",
-              day: "numeric",
-              month: "long",
-              year: "numeric",
-            })}
+            {new Date(`${today.date}T12:00:00`).toLocaleDateString(
+              "fr-FR",
+              {
+                weekday: "long",
+                day: "numeric",
+                month: "long",
+                year: "numeric",
+              }
+            )}
           </div>
         ) : null}
 
         {/* Référence biblique */}
         {today.reference_biblique ? (
-          <div style={{ opacity: 0.9, marginBottom: 10 }}>
+          <div
+            style={{
+              opacity: 0.9,
+              marginBottom: 10,
+            }}
+          >
             <b>{today.reference_biblique}</b>
           </div>
         ) : null}
@@ -86,10 +105,17 @@ export default function Today({
           </div>
         ) : null}
 
-        {/* Consignes - champ paroisse dans days.json */}
+        {/* Consignes
+            Le champ reste "paroisse" dans days.json */}
         {today.paroisse ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Consignes</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Consignes
+            </h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
@@ -102,7 +128,13 @@ export default function Today({
         {/* Méditation */}
         {today.reflexion ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Méditation</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Méditation
+            </h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
@@ -115,7 +147,13 @@ export default function Today({
         {/* Conversion */}
         {today.resolution ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Conversion</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Conversion
+            </h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
@@ -128,7 +166,13 @@ export default function Today({
         {/* Prière */}
         {today.priere ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Prière</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Prière
+            </h3>
 
             <div
               className="md bodyText"
@@ -145,12 +189,15 @@ export default function Today({
           </>
         ) : null}
 
-        {/* Ouvrir le détail du jour */}
+        {/* Note personnelle */}
+        <DayNoteEditor dayId={String(today.id)} />
+
+        {/* Accès au détail */}
         <button
           onClick={() => onOpenDetail(today.id)}
           style={{
             width: "100%",
-            marginTop: 18,
+            marginTop: 20,
             border: "1px solid var(--border)",
             background: "var(--accentSoft)",
             color: "var(--text)",

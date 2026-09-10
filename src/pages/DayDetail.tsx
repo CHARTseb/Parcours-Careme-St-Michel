@@ -19,12 +19,26 @@ export default function DayDetail({
     [days, id]
   );
 
-  if (error) return <div style={{ padding: 20 }}>Erreur: {error}</div>;
-  if (!days.length) return <div style={{ padding: 20 }}>Chargement…</div>;
-  if (!day) return <div style={{ padding: 20 }}>Jour introuvable.</div>;
+  if (error) {
+    return <div style={{ padding: 20 }}>Erreur : {error}</div>;
+  }
+
+  if (!days.length) {
+    return <div style={{ padding: 20 }}>Chargement…</div>;
+  }
+
+  if (!day) {
+    return <div style={{ padding: 20 }}>Jour introuvable.</div>;
+  }
 
   return (
-    <div style={{ maxWidth: 820, margin: "0 auto", padding: 16 }}>
+    <div
+      style={{
+        maxWidth: 820,
+        margin: "0 auto",
+        padding: 16,
+      }}
+    >
       <button
         onClick={onBack}
         style={{
@@ -43,7 +57,12 @@ export default function DayDetail({
       <Card title={day.titre}>
         {/* Référence biblique */}
         {day.reference_biblique ? (
-          <div style={{ opacity: 0.9, marginBottom: 10 }}>
+          <div
+            style={{
+              opacity: 0.9,
+              marginBottom: 10,
+            }}
+          >
             <b>{day.reference_biblique}</b>
           </div>
         ) : null}
@@ -62,10 +81,17 @@ export default function DayDetail({
           </div>
         ) : null}
 
-        {/* Consignes - données provenant du champ paroisse */}
+        {/* Consignes
+            Le champ reste "paroisse" dans days.json */}
         {day.paroisse ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Consignes</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Consignes
+            </h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
@@ -78,7 +104,13 @@ export default function DayDetail({
         {/* Méditation */}
         {day.reflexion ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Méditation</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Méditation
+            </h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
@@ -91,7 +123,13 @@ export default function DayDetail({
         {/* Conversion */}
         {day.resolution ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Conversion</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Conversion
+            </h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
@@ -104,7 +142,13 @@ export default function DayDetail({
         {/* Prière */}
         {day.priere ? (
           <>
-            <h3 style={{ margin: "10px 0 4px" }}>Prière</h3>
+            <h3
+              style={{
+                margin: "18px 0 8px",
+              }}
+            >
+              Prière
+            </h3>
 
             <div
               className="md bodyText"
