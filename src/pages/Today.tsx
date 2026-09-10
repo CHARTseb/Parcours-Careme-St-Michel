@@ -3,53 +3,77 @@ import { useDays } from "../data/useDays";
 import { Card } from "../components/Card";
 import ReactMarkdown from "react-markdown";
 import { cleanMd, mdComponents } from "../utils/markdown";
-import DayNoteEditor from "../components/DayNoteEditor";
 
-export default function DayDetail({
-  id,
-  onBack,
+export default function Today({
+  onOpenDetail,
 }: {
-  id: number;
-  onBack: () => void;
+  onOpenDetail: (id: number) => void;
 }) {
   const { days, error } = useDays();
 
-  const day = useMemo(
-    () => days.find((d) => d.id === id),
-    [days, id]
-  );
+  const today = useMemo(() => {
+    if (!days.length) return null;
 
-  if (error) return <div style={{ padding: 20 }}>Erreur: {error}</div>;
-  if (!days.length) return <div style={{ padding: 20 }}>Chargement…</div>;
-  if (!day) return <div style={{ padding: 20 }}>Jour introuvable.</div>;
+    const now = new Date();
+
+    // Date locale au format YYYY-MM-DD
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, "0");
+    const day = String(now.getDate()).padStart(2, "0");
+
+    const todayKey = `${year}-${month}-${day}`;
+
+    return days.find((d) => d.date === todayKey) ?? null;
+  }, [days]);
+
+  if (error) {
+    return <div style={{ padding: 20 }}>Erreur: {error}</div>;
+  }
+
+  if (!days.length) {
+    return <div style={{ padding: 20 }}>Chargement…</div>;
+  }
+
+  if (!today) {
+    return (
+      <div style={{ maxWidth: 820, margin: "0 auto" }}>
+        <Card title="Aujourd’hui">
+          <p>Aucun jour du parcours n’est prévu aujourd’hui.</p>
+        </Card>
+      </div>
+    );
+  }
 
   return (
-    <div style={{ maxWidth: 820, margin: "0 auto", padding: 16 }}>
-      <button
-        onClick={onBack}
-        style={{
-          border: "1px solid rgba(0,0,0,.15)",
-          background: "white",
-          borderRadius: 12,
-          padding: "8px 12px",
-          cursor: "pointer",
-          marginBottom: 12,
-          fontWeight: 600,
-        }}
-      >
-        ← Retour
-      </button>
+    <div style={{ maxWidth: 820, margin: "0 auto" }}>
+      <Card title={today.titre}>
+        {/* Date */}
+        {today.date ? (
+          <div
+            style={{
+              opacity: 0.7,
+              marginBottom: 10,
+              fontWeight: 600,
+            }}
+          >
+            {new Date(`${today.date}T12:00:00`).toLocaleDateString("fr-FR", {
+              weekday: "long",
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            })}
+          </div>
+        ) : null}
 
-      <Card title={day.titre}>
         {/* Référence biblique */}
-        {day.reference_biblique ? (
+        {today.reference_biblique ? (
           <div style={{ opacity: 0.9, marginBottom: 10 }}>
-            <b>{day.reference_biblique}</b>
+            <b>{today.reference_biblique}</b>
           </div>
         ) : null}
 
         {/* Texte biblique */}
-        {day.texte_biblique ? (
+        {today.texte_biblique ? (
           <div
             className="bibleText"
             style={{
@@ -58,51 +82,51 @@ export default function DayDetail({
               opacity: 0.95,
             }}
           >
-            {day.texte_biblique}
+            {today.texte_biblique}
           </div>
         ) : null}
 
-        {/* Consignes - données provenant du champ paroisse */}
-        {day.paroisse ? (
+        {/* Consignes - champ paroisse dans days.json */}
+        {today.paroisse ? (
           <>
             <h3 style={{ margin: "10px 0 4px" }}>Consignes</h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
-                {cleanMd(day.paroisse)}
+                {cleanMd(today.paroisse)}
               </ReactMarkdown>
             </div>
           </>
         ) : null}
 
         {/* Méditation */}
-        {day.reflexion ? (
+        {today.reflexion ? (
           <>
             <h3 style={{ margin: "10px 0 4px" }}>Méditation</h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
-                {cleanMd(day.reflexion)}
+                {cleanMd(today.reflexion)}
               </ReactMarkdown>
             </div>
           </>
         ) : null}
 
         {/* Conversion */}
-        {day.resolution ? (
+        {today.resolution ? (
           <>
             <h3 style={{ margin: "10px 0 4px" }}>Conversion</h3>
 
             <div className="md bodyText">
               <ReactMarkdown components={mdComponents}>
-                {cleanMd(day.resolution)}
+                {cleanMd(today.resolution)}
               </ReactMarkdown>
             </div>
           </>
         ) : null}
 
         {/* Prière */}
-        {day.priere ? (
+        {today.priere ? (
           <>
             <h3 style={{ margin: "10px 0 4px" }}>Prière</h3>
 
@@ -115,14 +139,30 @@ export default function DayDetail({
               }}
             >
               <ReactMarkdown components={mdComponents}>
-                {cleanMd(day.priere)}
+                {cleanMd(today.priere)}
               </ReactMarkdown>
             </div>
           </>
         ) : null}
 
-        {/* Note personnelle */}
-        <DayNoteEditor dayId={String(day.id)} />
+        {/* Ouvrir le détail du jour */}
+        <button
+          onClick={() => onOpenDetail(today.id)}
+          style={{
+            width: "100%",
+            marginTop: 18,
+            border: "1px solid var(--border)",
+            background: "var(--accentSoft)",
+            color: "var(--text)",
+            borderRadius: 14,
+            padding: "12px 14px",
+            cursor: "pointer",
+            fontWeight: 800,
+            fontSize: 15,
+          }}
+        >
+          Ouvrir le détail du jour →
+        </button>
       </Card>
     </div>
   );
